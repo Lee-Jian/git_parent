@@ -1,0 +1,1963 @@
+2021-04-12 16:54:11:577 -04:00 29771-29771 [T] [NOOIE-JNI-nooie] Java_com_nooie_sdk_jni_NooieNative_nativeInit 
+
+2021-04-12 16:54:11:581 -04:00 29771-29847 [T] [NOOIE-JNI-AP] start net request looper         
+
+2021-04-12 16:54:11:581 -04:00 29771-29848 [T] [NOOIE-JNI-http] start net request looper       
+
+2021-04-12 16:54:11:586 -04:00 29771-29771 [C] [NOOIE-JNI-player] player sdk version 1.1.27    
+
+2021-04-12 16:54:11:587 -04:00 29771-29771 [C] [NOOIE-JNI-search] p2p_start_search_service [1] 
+
+2021-04-12 16:54:11:587 -04:00 29771-29771 [C] [NOOIE-JNI-search] p2p_start_search_service [2] 
+
+2021-04-12 16:54:11:587 -04:00 29771-29849 [C] [NOOIE-JNI-search] start local search service   
+
+2021-04-12 16:54:11:587 -04:00 29771-29849 [C] [NOOIE-JNI-search] LOCAL SEARCHING...           
+
+2021-04-12 16:54:11:587 -04:00 29771-29849 [I] [NOOIE-PP] ***********P2pInit start****************             
+
+2021-04-12 16:54:11:589 -04:00 29771-29849 [I] [NOOIE-PP] searchbody:2         
+
+2021-04-12 16:54:12:090 -04:00 29771-29849 [I] [NOOIE-PP] ApemanEnumDevices  recv timeout..    
+
+2021-04-12 16:54:12:190 -04:00 29771-29849 [C] [NOOIE-JNI-search] LOCAL SEARCHING...           
+
+2021-04-12 16:54:12:190 -04:00 29771-29849 [I] [NOOIE-PP] ***********P2pInit start****************             
+
+2021-04-12 16:54:12:191 -04:00 29771-29849 [I] [NOOIE-PP] searchbody:2         
+
+2021-04-12 16:54:12:391 -04:00 29771-29924 [T] [NOOIE-JNI-conn-service] start of p2p message looper            
+
+2021-04-12 16:54:12:398 -04:00 29771-29921 [C] [NOOIE-JNI-conn-service] start init thread      
+
+2021-04-12 16:54:12:398 -04:00 29771-29921 [C] [NOOIE-JNI-conn-service] start one time init check looper inited:0 success:-1   
+
+2021-04-12 16:54:12:399 -04:00 29771-29921 [C] [NOOIE-JNI-net] detect net -> start wait        
+
+2021-04-12 16:54:12:399 -04:00 29771-29926 [C] [NOOIE-JNI-net] detect net wroker -> 1          
+
+2021-04-12 16:54:12:399 -04:00 29771-29926 [C] [NOOIE-JNI-net] detect net start
+
+2021-04-12 16:54:12:403 -04:00 29771-29926 [C] [NOOIE-JNI-net] detect network dns start        
+
+2021-04-12 16:54:12:408 -04:00 29771-29926 [C] [NOOIE-JNI-net] hostname:alexatest.nooie.com is ipv6            
+
+2021-04-12 16:54:12:408 -04:00 29771-29926 [C] [NOOIE-JNI-net] hostname:alexatest.nooie.com is ipv4            
+
+2021-04-12 16:54:12:408 -04:00 29771-29926 [C] [NOOIE-JNI-net] deteck net type IPV4_IPV6       
+
+2021-04-12 16:54:12:408 -04:00 29771-29926 [C] [NOOIE-JNI-net] detect net type IPV4_IPV6       
+
+2021-04-12 16:54:12:408 -04:00 29771-29926 [C] [NOOIE-JNI-net] detect net wroker -> 2          
+
+2021-04-12 16:54:12:408 -04:00 29771-29926 [C] [NOOIE-JNI-net] detect net wroker -> 3          
+
+2021-04-12 16:54:12:408 -04:00 29771-29921 [C] [NOOIE-JNI-net] detect net -> wait finish       
+
+2021-04-12 16:54:12:408 -04:00 29771-29921 [C] [NOOIE-JNI-conn-service] init alexatest.nooie.com:80 for 8c6b8a4030068fef       
+
+2021-04-12 16:54:12:408 -04:00 29771-29921 [I] [NOOIE-PP] ................     
+
+2021-04-12 16:54:12:408 -04:00 29771-29921 [I] [NOOIE-PP] init_sail host:alexatest.nooie.com,port:80,mode:10   
+
+2021-04-12 16:54:12:414 -04:00 29771-29921 [I] [NOOIE-PP] choose addr.ip:2604:5580:22::351:448c, addr.port:80  
+
+2021-04-12 16:54:12:414 -04:00 29771-29921 [I] [NOOIE-PP] addr.ip:3.81.68.140, addr.port:80    
+
+2021-04-12 16:54:12:414 -04:00 29771-29921 [I] [NOOIE-PP] choose addr.ip:2604:5580:22::351:448c, addr.port:80  
+
+2021-04-12 16:54:12:414 -04:00 29771-29921 [I] [NOOIE-PP] addr.ip:3.81.68.140, addr.port:80    
+
+2021-04-12 16:54:12:414 -04:00 29771-29921 [I] [NOOIE-PP] ip:2604:5580:22::351:448c,port:20480 
+
+2021-04-12 16:54:12:414 -04:00 29771-29921 [I] [NOOIE-PP] NewSocketAndBind6 ip:::,port:0       
+
+2021-04-12 16:54:12:415 -04:00 29771-29921 [I] [NOOIE-PP] connect select ..    
+
+2021-04-12 16:54:12:454 -04:00 29771-29921 [I] [NOOIE-PP] send ret: 65         
+
+2021-04-12 16:54:12:504 -04:00 29771-29921 [I] [NOOIE-PP] the reqheader.encrypt_flag is enable 1               
+
+2021-04-12 16:54:12:504 -04:00 29771-29921 [I] [NOOIE-PP] dec keymd5:9ce03d6988c8dae9babff281acb129b8          
+
+2021-04-12 16:54:12:504 -04:00 29771-29921 [I] [NOOIE-PP] body.size:32         
+
+2021-04-12 16:54:12:504 -04:00 29771-29921 [I] [NOOIE-PP] body.size:32,sizeof(body.size):2,size_t:8            
+
+2021-04-12 16:54:12:504 -04:00 29771-29921 [I] [NOOIE-PP] srv[0]:server_ip:3.218.14.127,server_port:5084,srv_type:1,ssl_status:0,oth_arg:no oth_arg            
+
+2021-04-12 16:54:12:504 -04:00 29771-29921 [I] [NOOIE-PP] s_queue[i].pipe[0]:-1,s_queue[i].pipe[1]:-1          
+
+2021-04-12 16:54:12:504 -04:00 29771-29921 [I] [NOOIE-PP] s_queue[i].pipe[0]:-1,s_queue[i].pipe[1]:-1          
+
+2021-04-12 16:54:12:504 -04:00 29771-29921 [I] [NOOIE-PP] [33m**********Natcheck start************[0m        
+
+2021-04-12 16:54:12:504 -04:00 29771-29921 [I] [NOOIE-PP] init_sail host:3.218.14.127,port:5084,mode:10        
+
+2021-04-12 16:54:12:504 -04:00 29771-29921 [I] [NOOIE-PP] addr.ip:3.218.14.127, addr.port:5084 
+
+2021-04-12 16:54:12:504 -04:00 29771-29921 [I] [NOOIE-PP] addr.ip:3.218.14.127, addr.port:5084 
+
+2021-04-12 16:54:12:504 -04:00 29771-29921 [I] [NOOIE-PP] === ip:Unknown AF,port:0             
+
+2021-04-12 16:54:12:505 -04:00 29771-29921 [I] [NOOIE-PP] udpSocket : 98       
+
+2021-04-12 16:54:12:505 -04:00 29771-29921 [I] [NOOIE-PP] ret:0
+
+2021-04-12 16:54:12:505 -04:00 29771-29921 [I] [NOOIE-PP] apemangetlocaladdr6:144 ==> Address family not supported by protocol 
+
+2021-04-12 16:54:12:505 -04:00 29771-29921 [I] [NOOIE-PP] ApemanConnInit Can not get local address and port, may be the network is not available               
+
+2021-04-12 16:54:12:505 -04:00 29771-29921 [C] [NOOIE-JNI-conn-service] *******init success alexatest.nooie.com:80 for account:8c6b8a4030068fef psd: *******   
+
+2021-04-12 16:54:12:505 -04:00 29771-29921 [C] [NOOIE-JNI-conn-service] finish one time init check looper      
+
+2021-04-12 16:54:12:505 -04:00 29771-29921 [C] [NOOIE-JNI-conn-service] start one time init check looper inited:1 success:0    
+
+2021-04-12 16:54:12:692 -04:00 29771-29849 [I] [NOOIE-PP] ApemanEnumDevices  recv timeout..    
+
+2021-04-12 16:54:12:793 -04:00 29771-29849 [C] [NOOIE-JNI-search] LOCAL SEARCHING...           
+
+2021-04-12 16:54:12:793 -04:00 29771-29849 [I] [NOOIE-PP] ***********P2pInit start****************             
+
+2021-04-12 16:54:12:793 -04:00 29771-29849 [I] [NOOIE-PP] searchbody:2         
+
+2021-04-12 16:54:13:294 -04:00 29771-29849 [I] [NOOIE-PP] ApemanEnumDevices  recv timeout..    
+
+2021-04-12 16:54:13:394 -04:00 29771-29849 [C] [NOOIE-JNI-search] exit local search service    
+
+2021-04-12 16:54:14:978 -04:00 29771-29771 [C] [NOOIE-JNI-conn-service] NEW conn 6611992915f9ba93d58b35d1e6bd86ae sub1: sub2: sub3: sub4:      
+
+2021-04-12 16:54:14:978 -04:00 29771-29771 [C] [NOOIE-JNI-conn-service] NEW conn cff091578a878c9cc6f9f5febae92d67 sub1: sub2: sub3: sub4:      
+
+2021-04-12 16:54:14:978 -04:00 29771-29922 [C] [NOOIE-JNI-conn-service] start connect 6611992915f9ba93d58b35d1e6bd86ae thread  
+
+2021-04-12 16:54:14:978 -04:00 29771-29922 [C] [NOOIE-JNI-conn-service] start one time connect check looper    
+
+2021-04-12 16:54:14:978 -04:00 29771-29922 [C] [NOOIE-JNI-conn-service] conn 6611992915f9ba93d58b35d1e6bd86ae usp2p02.nooie.com:6116 for 8c6b8a4030068fef  by P-P              
+
+2021-04-12 16:54:14:978 -04:00 29771-29922 [I] [NOOIE-PP] NewASDP2pConnCreate uuid: 6611992915f9ba93d58b35d1e6bd86ae--user:8c6b8a4030068fef, password:---,natinfo.outside_ip:0,natinfo.nattype:0               
+
+2021-04-12 16:54:14:978 -04:00 29771-29922 [I] [NOOIE-PP] apemaneucconnbyp2p 6611992915f9ba93d58b35d1e6bd86ae failed ->start relay....         
+
+2021-04-12 16:54:14:978 -04:00 29771-29922 [I] [NOOIE-PP] ip:usp2p02.nooie.com,port:16116      
+
+2021-04-12 16:54:14:978 -04:00 29771-29922 [I] [NOOIE-PP] init_sail host:usp2p02.nooie.com,port:16116,mode:10  
+
+2021-04-12 16:54:14:980 -04:00 29771-30017 [T] [NOOIE-JNI-p2p-conn] start of request looper    
+
+2021-04-12 16:54:14:980 -04:00 29771-30016 [T] [NOOIE-JNI-p2p-conn] start of request looper    
+
+2021-04-12 16:54:14:983 -04:00 29771-29922 [I] [NOOIE-PP] choose addr.ip:2604:5580:22::23ab:6b51, addr.port:16116              
+
+2021-04-12 16:54:14:983 -04:00 29771-29922 [I] [NOOIE-PP] addr.ip:35.171.107.81, addr.port:16116               
+
+2021-04-12 16:54:14:983 -04:00 29771-29922 [I] [NOOIE-PP] choose addr.ip:2604:5580:22::23ab:6b51, addr.port:16116              
+
+2021-04-12 16:54:14:983 -04:00 29771-29922 [I] [NOOIE-PP] addr.ip:35.171.107.81, addr.port:16116               
+
+2021-04-12 16:54:14:983 -04:00 29771-29922 [I] [NOOIE-PP] >>>>>>ipv6           
+
+2021-04-12 16:54:14:983 -04:00 29771-29922 [I] [NOOIE-PP] NewSocketAndBind6 ip:::,port:0       
+
+2021-04-12 16:54:14:983 -04:00 29771-29922 [I] [NOOIE-PP] new tcp socket 62    
+
+2021-04-12 16:54:14:983 -04:00 29771-29922 [I] [NOOIE-PP] === ip:2604:5580:22::23ab:6b51,port:16116 socket:62  
+
+2021-04-12 16:54:14:984 -04:00 29771-29922 [I] [NOOIE-PP] connect select ..    
+
+2021-04-12 16:54:15:030 -04:00 29771-29922 [I] [NOOIE-PP] [36m apemantcp New TCP Socket, Bind to 2605:8d80:643:e8f8:45d9:8a4d:5b9a:343:46159, Connect to 2604:5580:22::23ab:6b51:62526[0m    
+
+2021-04-12 16:54:15:030 -04:00 29771-29922 [I] [NOOIE-PP] **********start rcv**********timeout:3000000         
+
+2021-04-12 16:54:15:161 -04:00 29771-29922 [I] [NOOIE-PP] method: RelayInit    
+
+2021-04-12 16:54:15:161 -04:00 29771-29922 [I] [NOOIE-PP] rpcType: 1           
+
+2021-04-12 16:54:15:161 -04:00 29771-29922 [I] [NOOIE-PP] code: 0              
+
+2021-04-12 16:54:15:161 -04:00 29771-29922 [I] [NOOIE-PP] encrypt_flag: 1      
+
+2021-04-12 16:54:15:161 -04:00 29771-29922 [I] [NOOIE-PP] has_code: 1          
+
+2021-04-12 16:54:15:161 -04:00 29771-29922 [I] [NOOIE-PP] rpc_type: 1          
+
+2021-04-12 16:54:15:161 -04:00 29771-29922 [I] [NOOIE-PP] recv RelayInit RpcResponse           
+
+2021-04-12 16:54:15:161 -04:00 29771-29922 [I] [NOOIE-PP] RelayInit_RpcResponse_decode ok      
+
+2021-04-12 16:54:15:161 -04:00 29771-29922 [I] [NOOIE-PP] has_security_key: 1  
+
+2021-04-12 16:54:15:161 -04:00 29771-29922 [I] [NOOIE-PP] security_key:        
+
+2021-04-12 16:54:15:167 -04:00 29771-29922 [I] [NOOIE-PP] method: EchoTest     
+
+2021-04-12 16:54:15:167 -04:00 29771-29922 [I] [NOOIE-PP] rpcType: 1           
+
+2021-04-12 16:54:15:167 -04:00 29771-29922 [I] [NOOIE-PP] code: 0              
+
+2021-04-12 16:54:15:167 -04:00 29771-29922 [I] [NOOIE-PP] encrypt_flag: 1      
+
+2021-04-12 16:54:15:167 -04:00 29771-29922 [I] [NOOIE-PP] has_code: 1          
+
+2021-04-12 16:54:15:167 -04:00 29771-29922 [I] [NOOIE-PP] rpc_type: 1          
+
+2021-04-12 16:54:15:167 -04:00 29771-29922 [I] [NOOIE-PP] recv EchoTest_RpcRequest             
+
+2021-04-12 16:54:15:167 -04:00 29771-29922 [I] [NOOIE-PP] [31mrelay connect device already...[0m             
+
+2021-04-12 16:54:15:167 -04:00 29771-29922 [I] [NOOIE-PP] conn->fd:62,sendbuf:524288,rcvbuf:4194304,secret:    
+
+2021-04-12 16:54:15:168 -04:00 29771-29922 [C] [NOOIE-JNI-conn-service] *******conn 6611992915f9ba93d58b35d1e6bd86ae usp2p02.nooie.com:6116 SUCCESS *******    
+
+2021-04-12 16:54:15:168 -04:00 29771-29922 [C] [NOOIE-JNI-p2p-conn] p2p open channel 0xE277C600 type:1 chno:6  
+
+2021-04-12 16:54:15:168 -04:00 29771-29922 [I] [NOOIE-PP] ASDP2pCmdSendSmallData resp:0x71d255fb88             
+
+2021-04-12 16:54:15:168 -04:00 29771-29922 [I] [NOOIE-PP] ASDP2pConnQuery ..   
+
+2021-04-12 16:54:15:168 -04:00 29771-29922 [I] [NOOIE-PP] ASDP2pConnCommandWithCB:---trans_id:1-,fd:62,local_port:0-----       
+
+2021-04-12 16:54:15:393 -04:00 29771-30028 [C] [NOOIE-JNI-conn-service] start connect cff091578a878c9cc6f9f5febae92d67 thread  
+
+2021-04-12 16:54:15:393 -04:00 29771-30028 [C] [NOOIE-JNI-conn-service] start one time connect check looper    
+
+2021-04-12 16:54:15:393 -04:00 29771-30028 [C] [NOOIE-JNI-conn-service] conn cff091578a878c9cc6f9f5febae92d67 usp2p03.nooie.com:6116 for 8c6b8a4030068fef  by P-P              
+
+2021-04-12 16:54:15:393 -04:00 29771-30028 [I] [NOOIE-PP] NewASDP2pConnCreate uuid: cff091578a878c9cc6f9f5febae92d67--user:8c6b8a4030068fef, password:---,natinfo.outside_ip:0,natinfo.nattype:0               
+
+2021-04-12 16:54:15:393 -04:00 29771-30028 [I] [NOOIE-PP] apemaneucconnbyp2p cff091578a878c9cc6f9f5febae92d67 failed ->start relay....         
+
+2021-04-12 16:54:15:393 -04:00 29771-30028 [I] [NOOIE-PP] ip:usp2p03.nooie.com,port:16116      
+
+2021-04-12 16:54:15:393 -04:00 29771-30028 [I] [NOOIE-PP] init_sail host:usp2p03.nooie.com,port:16116,mode:10  
+
+2021-04-12 16:54:15:397 -04:00 29771-30028 [I] [NOOIE-PP] choose addr.ip:2604:5580:22::34cc:5d7c, addr.port:16116              
+
+2021-04-12 16:54:15:397 -04:00 29771-30028 [I] [NOOIE-PP] addr.ip:52.204.93.124, addr.port:16116               
+
+2021-04-12 16:54:15:397 -04:00 29771-30028 [I] [NOOIE-PP] choose addr.ip:2604:5580:22::34cc:5d7c, addr.port:16116              
+
+2021-04-12 16:54:15:397 -04:00 29771-30028 [I] [NOOIE-PP] addr.ip:52.204.93.124, addr.port:16116               
+
+2021-04-12 16:54:15:397 -04:00 29771-30028 [I] [NOOIE-PP] >>>>>>ipv6           
+
+2021-04-12 16:54:15:397 -04:00 29771-30028 [I] [NOOIE-PP] NewSocketAndBind6 ip:::,port:0       
+
+2021-04-12 16:54:15:397 -04:00 29771-30028 [I] [NOOIE-PP] new tcp socket 58    
+
+2021-04-12 16:54:15:397 -04:00 29771-30028 [I] [NOOIE-PP] === ip:2604:5580:22::34cc:5d7c,port:16116 socket:58  
+
+2021-04-12 16:54:15:398 -04:00 29771-30028 [I] [NOOIE-PP] connect select ..    
+
+2021-04-12 16:54:15:408 -04:00 29771-29926 [C] [NOOIE-JNI-net] detect net wroker -> 4          
+
+2021-04-12 16:54:15:408 -04:00 29771-29926 [C] [NOOIE-JNI-net] detect net wroker -> 5          
+
+2021-04-12 16:54:15:442 -04:00 29771-30028 [I] [NOOIE-PP] [36m apemantcp New TCP Socket, Bind to 2605:8d80:643:e8f8:45d9:8a4d:5b9a:343:37099, Connect to 2604:5580:22::34cc:5d7c:62526[0m    
+
+2021-04-12 16:54:15:442 -04:00 29771-30028 [I] [NOOIE-PP] **********start rcv**********timeout:3000000         
+
+2021-04-12 16:54:15:672 -04:00 29771-30028 [I] [NOOIE-PP] method: RelayInit    
+
+2021-04-12 16:54:15:672 -04:00 29771-30028 [I] [NOOIE-PP] rpcType: 1           
+
+2021-04-12 16:54:15:672 -04:00 29771-30028 [I] [NOOIE-PP] code: 0              
+
+2021-04-12 16:54:15:672 -04:00 29771-30028 [I] [NOOIE-PP] encrypt_flag: 1      
+
+2021-04-12 16:54:15:672 -04:00 29771-30028 [I] [NOOIE-PP] has_code: 1          
+
+2021-04-12 16:54:15:672 -04:00 29771-30028 [I] [NOOIE-PP] rpc_type: 1          
+
+2021-04-12 16:54:15:672 -04:00 29771-30028 [I] [NOOIE-PP] recv RelayInit RpcResponse           
+
+2021-04-12 16:54:15:672 -04:00 29771-30028 [I] [NOOIE-PP] RelayInit_RpcResponse_decode ok      
+
+2021-04-12 16:54:15:672 -04:00 29771-30028 [I] [NOOIE-PP] has_security_key: 1  
+
+2021-04-12 16:54:15:672 -04:00 29771-30028 [I] [NOOIE-PP] security_key:        
+
+2021-04-12 16:54:15:677 -04:00 29771-30028 [I] [NOOIE-PP] method: EchoTest     
+
+2021-04-12 16:54:15:677 -04:00 29771-30028 [I] [NOOIE-PP] rpcType: 1           
+
+2021-04-12 16:54:15:677 -04:00 29771-30028 [I] [NOOIE-PP] code: 0              
+
+2021-04-12 16:54:15:677 -04:00 29771-30028 [I] [NOOIE-PP] encrypt_flag: 1      
+
+2021-04-12 16:54:15:677 -04:00 29771-30028 [I] [NOOIE-PP] has_code: 1          
+
+2021-04-12 16:54:15:677 -04:00 29771-30028 [I] [NOOIE-PP] rpc_type: 1          
+
+2021-04-12 16:54:15:677 -04:00 29771-30028 [I] [NOOIE-PP] recv EchoTest_RpcRequest             
+
+2021-04-12 16:54:15:677 -04:00 29771-30028 [I] [NOOIE-PP] [31mrelay connect device already...[0m             
+
+2021-04-12 16:54:15:677 -04:00 29771-30028 [I] [NOOIE-PP] conn->fd:58,sendbuf:524288,rcvbuf:4194304,secret:    
+
+2021-04-12 16:54:15:677 -04:00 29771-30028 [C] [NOOIE-JNI-conn-service] *******conn cff091578a878c9cc6f9f5febae92d67 usp2p03.nooie.com:6116 SUCCESS *******    
+
+2021-04-12 16:54:15:677 -04:00 29771-30028 [C] [NOOIE-JNI-p2p-conn] p2p open channel 0xE27A1000 type:1 chno:6  
+
+2021-04-12 16:54:15:677 -04:00 29771-30028 [I] [NOOIE-PP] ASDP2pCmdSendSmallData resp:0x71aacd9b88             
+
+2021-04-12 16:54:15:677 -04:00 29771-30028 [I] [NOOIE-PP] ASDP2pConnQuery ..   
+
+2021-04-12 16:54:15:677 -04:00 29771-30028 [I] [NOOIE-PP] ASDP2pConnCommandWithCB:---trans_id:1-,fd:58,local_port:0-----       
+
+2021-04-12 16:54:16:168 -04:00 29771-30027 [I] [NOOIE-PP] P2pSessionThread--------0------pP2pConn->rcvrState :2
+
+2021-04-12 16:54:16:168 -04:00 29771-30027 [I] [NOOIE-PP] @@@@@@@@@@@ asdsendtcpmsg start tcp send heart beat,time:3078381437  
+
+2021-04-12 16:54:16:168 -04:00 29771-30027 [I] [NOOIE-PP] @@@@@@@@@@@ asdsendtcpmsg over tcp send heart beat,time:3078381562   
+
+2021-04-12 16:54:16:168 -04:00 29771-30027 [I] [NOOIE-PP] --------3-----:104   
+
+2021-04-12 16:54:16:168 -04:00 29771-29922 [I] [NOOIE-PP] respInfo.status:0,respInfo.len:983,respInfo.isLast:1 
+
+2021-04-12 16:54:16:168 -04:00 29771-29922 [C] [NOOIE-JNI-p2p-conn] get device 6611992915f9ba93d58b35d1e6bd86ae support CMD SUCCESS [{"code":200,"msg":"ok","data":["CMD_START_AV","CMD_GET_FLIP","CMD_SET_FLIP","CMD_SET_LED","CMD_GET_LED","CMD_SET_AUDIO_RSTATUS","CMD_GET_AUDIO_RSTATUS","CMD_SET_LOOP_RECODE","CMD_GET_LOOP_RECODE","CMD_SET_WORKMODEL","CMD_GET_WORKMODEL","CMD_GET_DEVICEINFO","CMD_SET_MOTION_INFO","CMD_GET_MOTION_INFO","CMD_SET_SOUNDALERT_INFO","CMD_GET_SOUNDALERT_INFO","CMD_GET_SETTING","CMD_SET_RECORD_PLAN","CMD_GET_RECORD_PLAN","CMD_SET_RECORD_PLAN_ADD","CMD_GET_RECORD_PLAN_ADD","CMD_LIST_RECORD","CMD_FORMAT_SDC","CMD_GET_SDC_FORMAT_STATUS","CMD_RESET_DEVICE","CMD_UPGRADE_NOTICE","CMD_GET_SOUNDRECORD_PLAN","CMD_SET_SOUNDRECORD_PLAN","CMD_GET_SOUNDRECORD_PLAN_ADD","CMD_SET_SOUNDRECORD_PLAN_ADD","CMD_GET_SDCARD_RECORDDATE","CMD_UNBIND","CMD_GET_USER","CMD_GET_ICR","CMD_SET_ICR","CMD_SET_MP3_PLAY_ALARM_LIST","CMD_GET_MP3_PLAY_ALARM_STATE","CMD_GET_SETTINGV2","CMD_GET_TIME","CMD_SET_TIME","CMD_GET_WIFI_SIGNAL","CMD_GET_AUDIO_PLAY","CMD_SET_AUDIO_PLAY","CMD_SET_MT_AREA","CMD_GET_MT_AREA"]}]   
+
+2021-04-12 16:54:16:168 -04:00 29771-29922 [C] [NOOIE-JNI-p2p-conn] p2p close channel 0xE277C600 type:1 chno:6 
+
+2021-04-12 16:54:16:168 -04:00 29771-29922 [C] [NOOIE-JNI-conn-service] finish ont time connect check looper   
+
+2021-04-12 16:54:16:168 -04:00 29771-29922 [C] [NOOIE-JNI-conn-service] start one time connect check looper    
+
+2021-04-12 16:54:16:310 -04:00 29771-30027 [I] [NOOIE-PP] -----OP_HEART_BEAT---23------op:14   
+
+2021-04-12 16:54:16:678 -04:00 29771-30031 [I] [NOOIE-PP] P2pSessionThread--------0------pP2pConn->rcvrState :2
+
+2021-04-12 16:54:16:678 -04:00 29771-30031 [I] [NOOIE-PP] @@@@@@@@@@@ asdsendtcpmsg start tcp send heart beat,time:3078891898  
+
+2021-04-12 16:54:16:678 -04:00 29771-30031 [I] [NOOIE-PP] @@@@@@@@@@@ asdsendtcpmsg over tcp send heart beat,time:3078892074   
+
+2021-04-12 16:54:16:678 -04:00 29771-30031 [I] [NOOIE-PP] --------3-----:104   
+
+2021-04-12 16:54:16:679 -04:00 29771-30028 [I] [NOOIE-PP] respInfo.status:0,respInfo.len:983,respInfo.isLast:1 
+
+2021-04-12 16:54:16:679 -04:00 29771-30028 [C] [NOOIE-JNI-p2p-conn] get device cff091578a878c9cc6f9f5febae92d67 support CMD SUCCESS [{"code":200,"msg":"ok","data":["CMD_START_AV","CMD_GET_FLIP","CMD_SET_FLIP","CMD_SET_LED","CMD_GET_LED","CMD_SET_AUDIO_RSTATUS","CMD_GET_AUDIO_RSTATUS","CMD_SET_LOOP_RECODE","CMD_GET_LOOP_RECODE","CMD_SET_WORKMODEL","CMD_GET_WORKMODEL","CMD_GET_DEVICEINFO","CMD_SET_MOTION_INFO","CMD_GET_MOTION_INFO","CMD_SET_SOUNDALERT_INFO","CMD_GET_SOUNDALERT_INFO","CMD_GET_SETTING","CMD_SET_RECORD_PLAN","CMD_GET_RECORD_PLAN","CMD_SET_RECORD_PLAN_ADD","CMD_GET_RECORD_PLAN_ADD","CMD_LIST_RECORD","CMD_FORMAT_SDC","CMD_GET_SDC_FORMAT_STATUS","CMD_RESET_DEVICE","CMD_UPGRADE_NOTICE","CMD_GET_SOUNDRECORD_PLAN","CMD_SET_SOUNDRECORD_PLAN","CMD_GET_SOUNDRECORD_PLAN_ADD","CMD_SET_SOUNDRECORD_PLAN_ADD","CMD_GET_SDCARD_RECORDDATE","CMD_UNBIND","CMD_GET_USER","CMD_GET_ICR","CMD_SET_ICR","CMD_SET_MP3_PLAY_ALARM_LIST","CMD_GET_MP3_PLAY_ALARM_STATE","CMD_GET_SETTINGV2","CMD_GET_TIME","CMD_SET_TIME","CMD_GET_WIFI_SIGNAL","CMD_GET_AUDIO_PLAY","CMD_SET_AUDIO_PLAY","CMD_SET_MT_AREA","CMD_GET_MT_AREA"]}]   
+
+2021-04-12 16:54:16:679 -04:00 29771-30028 [C] [NOOIE-JNI-p2p-conn] p2p close channel 0xE27A1000 type:1 chno:6 
+
+2021-04-12 16:54:16:679 -04:00 29771-30028 [C] [NOOIE-JNI-conn-service] finish ont time connect check looper   
+
+2021-04-12 16:54:16:679 -04:00 29771-30028 [C] [NOOIE-JNI-conn-service] start one time connect check looper    
+
+2021-04-12 16:54:16:778 -04:00 29771-30031 [I] [NOOIE-PP] -----OP_HEART_BEAT---23------op:14   
+
+2021-04-12 16:54:18:821 -04:00 29771-29771 [C] [NOOIE-JNI-nooie] p2p service init failed !!!!!!
+
+2021-04-12 16:54:18:821 -04:00 29771-29771 [C] [NOOIE-JNI-conn-service] Please do not repeate init the conn    
+
+2021-04-12 16:54:18:821 -04:00 29771-29771 [C] [NOOIE-JNI-watcher] please do not repeate init statistics       
+
+2021-04-12 16:54:21:473 -04:00 29771-29771 [C] [NOOIE-JNI-conn-service] UPDATE conn 6611992915f9ba93d58b35d1e6bd86ae sub1: sub2: sub3: sub4:   
+
+2021-04-12 16:54:21:473 -04:00 29771-29771 [C] [NOOIE-JNI-p2p-conn] update cfg -> 1            
+
+2021-04-12 16:54:21:473 -04:00 29771-29771 [C] [NOOIE-JNI-p2p-conn] update cfg -> 2            
+
+2021-04-12 16:54:21:473 -04:00 29771-29771 [C] [NOOIE-JNI-p2p-conn] update the config finish   
+
+2021-04-12 16:54:21:473 -04:00 29771-29771 [C] [NOOIE-JNI-conn-service] UPDATE conn cff091578a878c9cc6f9f5febae92d67 sub1: sub2: sub3: sub4:   
+
+2021-04-12 16:54:21:473 -04:00 29771-29771 [C] [NOOIE-JNI-p2p-conn] update cfg -> 1            
+
+2021-04-12 16:54:21:473 -04:00 29771-29771 [C] [NOOIE-JNI-p2p-conn] update cfg -> 2            
+
+2021-04-12 16:54:21:473 -04:00 29771-29771 [C] [NOOIE-JNI-p2p-conn] update the config finish   
+
+2021-04-12 16:54:26:236 -04:00 29771-30027 [I] [NOOIE-PP] @@@@@@@@@@@ asdsendtcpmsg start tcp send heart beat,time:3088449534  
+
+2021-04-12 16:54:26:237 -04:00 29771-30027 [I] [NOOIE-PP] @@@@@@@@@@@ asdsendtcpmsg over tcp send heart beat,time:3088450194   
+
+2021-04-12 16:54:26:237 -04:00 29771-30027 [I] [NOOIE-PP] --------3-----:104   
+
+2021-04-12 16:54:26:330 -04:00 29771-30027 [I] [NOOIE-PP] -----OP_HEART_BEAT---23------op:14   
+
+2021-04-12 16:54:26:708 -04:00 29771-30031 [I] [NOOIE-PP] @@@@@@@@@@@ asdsendtcpmsg start tcp send heart beat,time:3088921269  
+
+2021-04-12 16:54:26:709 -04:00 29771-30031 [I] [NOOIE-PP] @@@@@@@@@@@ asdsendtcpmsg over tcp send heart beat,time:3088922434   
+
+2021-04-12 16:54:26:709 -04:00 29771-30031 [I] [NOOIE-PP] --------3-----:104   
+
+2021-04-12 16:54:26:801 -04:00 29771-30031 [I] [NOOIE-PP] -----OP_HEART_BEAT---23------op:14   
+
+2021-04-12 16:54:28:732 -04:00 29771-30017 [T] [NOOIE-JNI-p2p-conn] {req: TYPE_GET_FORMAT_INFO}
+
+2021-04-12 16:54:28:732 -04:00 29771-30017 [I] [NOOIE-PP] ASDP2pConnCommandWithCB:---trans_id:2-,fd:58,local_port:0-----       
+
+2021-04-12 16:54:28:844 -04:00 29771-30017 [I] [NOOIE-PP] respInfo.status:0,respInfo.len:12,respInfo.isLast:1  
+
+2021-04-12 16:54:28:844 -04:00 29771-30017 [T] [NOOIE-JNI-p2p-conn] {rsp: TYPE_GET_FORMAT_INFO free: 0 total: 0 isFormatting: 2 OK}            
+
+2021-04-12 16:54:32:527 -04:00 29771-29945 [I] [NOOIE-PP] *** process item: ApemanConnInitN    
+
+2021-04-12 16:54:32:527 -04:00 29771-29945 [I] [NOOIE-PP] [33m**********Natcheck start************[0m        
+
+2021-04-12 16:54:32:527 -04:00 29771-29945 [I] [NOOIE-PP] init_sail host:3.218.14.127,port:5084,mode:10        
+
+2021-04-12 16:54:32:527 -04:00 29771-29945 [I] [NOOIE-PP] addr.ip:3.218.14.127, addr.port:5084 
+
+2021-04-12 16:54:32:527 -04:00 29771-29945 [I] [NOOIE-PP] addr.ip:3.218.14.127, addr.port:5084 
+
+2021-04-12 16:54:32:527 -04:00 29771-29945 [I] [NOOIE-PP] === ip:Unknown AF,port:0             
+
+2021-04-12 16:54:32:529 -04:00 29771-29945 [I] [NOOIE-PP] udpSocket : 113      
+
+2021-04-12 16:54:32:529 -04:00 29771-29945 [I] [NOOIE-PP] ret:0
+
+2021-04-12 16:54:32:529 -04:00 29771-29945 [I] [NOOIE-PP] apemangetlocaladdr6:144 ==> Address family not supported by protocol 
+
+2021-04-12 16:54:32:530 -04:00 29771-29945 [I] [NOOIE-PP] ApemanConnInit Can not get local address and port, may be the network is not available               
+
+2021-04-12 16:54:36:279 -04:00 29771-30027 [I] [NOOIE-PP] @@@@@@@@@@@ asdsendtcpmsg start tcp send heart beat,time:3098492894  
+
+2021-04-12 16:54:36:280 -04:00 29771-30027 [I] [NOOIE-PP] @@@@@@@@@@@ asdsendtcpmsg over tcp send heart beat,time:3098493241   
+
+2021-04-12 16:54:36:280 -04:00 29771-30027 [I] [NOOIE-PP] --------3-----:104   
+
+2021-04-12 16:54:36:387 -04:00 29771-30027 [I] [NOOIE-PP] -----OP_HEART_BEAT---23------op:14   
+
+2021-04-12 16:54:36:775 -04:00 29771-30031 [I] [NOOIE-PP] @@@@@@@@@@@ asdsendtcpmsg start tcp send heart beat,time:3098989033  
+
+2021-04-12 16:54:36:776 -04:00 29771-30031 [I] [NOOIE-PP] @@@@@@@@@@@ asdsendtcpmsg over tcp send heart beat,time:3098989876   
+
+2021-04-12 16:54:36:776 -04:00 29771-30031 [I] [NOOIE-PP] --------3-----:104   
+
+2021-04-12 16:54:36:860 -04:00 29771-30031 [I] [NOOIE-PP] -----OP_HEART_BEAT---23------op:14   
+
+2021-04-12 16:54:37:144 -04:00 29771-30016 [T] [NOOIE-JNI-p2p-conn] {req: TYPE_GET_FORMAT_INFO}
+
+2021-04-12 16:54:37:144 -04:00 29771-30016 [I] [NOOIE-PP] ASDP2pConnCommandWithCB:---trans_id:2-,fd:62,local_port:0-----       
+
+2021-04-12 16:54:37:244 -04:00 29771-30016 [I] [NOOIE-PP] respInfo.status:0,respInfo.len:12,respInfo.isLast:1  
+
+2021-04-12 16:54:37:244 -04:00 29771-30016 [T] [NOOIE-JNI-p2p-conn] {rsp: TYPE_GET_FORMAT_INFO free: 1541 total: 30521 isFormatting: 0 OK}     
+
+2021-04-12 16:54:42:997 -04:00 29771-29771 [C] [NOOIE-JNI-player] update window failed, player is NULL         
+
+2021-04-12 16:54:42:997 -04:00 29771-29771 [C] [NOOIE-JNI-player] update window failed, player is NULL         
+
+2021-04-12 16:54:43:074 -04:00 29771-29771 [D] [NooieDoorbellPlaybackActivity] -->> NooieDoorbellPlaybackActivity onLoadRecInfo NOOIE- deviceId=6611992915f9ba93d58b35d1e6bd86ae result=true timeBaseSec1618185600 seekTime=56934              
+
+2021-04-12 16:54:43:295 -04:00 29771-29771 [D] [NooieDoorbellPlaybackActivity] -->> NooieDoorbellPlaybackActivity onLoadRecInfo NOOIE- isOnRestart=false isOnNewIntent=false seekTime=56934    
+
+2021-04-12 16:54:43:295 -04:00 29771-29771 [D] [NooieDoorbellPlaybackActivity] -->> NooieDoorbellPlaybackActivity startPlay NOOIE- deviceId=6611992915f9ba93d58b35d1e6bd86ae =true address=power123.nooie.com port=443 bindType=1 fileType=mov expire=3 encryption=1 secret=9e03f0b14adcd2139621b1ef984b2ac0 prefix=nooie seekTime=56934       
+
+2021-04-12 16:54:43:296 -04:00 29771-29771 [D] [NooieDoorbellPlaybackActivity] ------>>NooieDoorbellPlaybackActivity  NOOIE- startNooieCloudPlayback before  isStarting true   
+
+2021-04-12 16:54:43:365 -04:00 29771-29771 [C] [NOOIE-JNI-player] update window failed, player is NULL         
+
+2021-04-12 16:54:43:365 -04:00 29771-29771 [C] [NOOIE-JNI-nooie] play timestamp 1618185600 1618185600          
+
+2021-04-12 16:54:43:366 -04:00 29771-29771 [C] [NOOIE-JNI-player] =========>>>start new player 0xBAB42300 -> 2097d989-1e9f-4482-9ebc-fe698dd19d2d [1]==================        
+
+2021-04-12 16:54:43:366 -04:00 29771-29771 [C] [NOOIE-JNI-player] id:2097d989-1e9f-4482-9ebc-fe698dd19d2d drop:NO play type:PLAY_TYPE_NOOIE_PLAYBACK_CLOUD src:0xFD08D9C0 window:0xBAD3C010 aud decode ID:65543 channels:1 sample rate:8000 sample fmt:1 channel layout:4 aud media type:11    
+
+2021-04-12 16:54:43:366 -04:00 29771-29771 [T] [NOOIE-JNI-video-decoder] use MediaCodec decoder
+
+2021-04-12 16:54:43:367 -04:00 29771-30308 [T] [NOOIE-JNI-player] start of player message looper 0xBAB42300    
+
+2021-04-12 16:54:43:370 -04:00 29771-29771 [C] [NOOIE-JNI-video-decoder-mediacodec] [Encode][Video]      mjpeg
+
+2021-04-12 16:54:43:370 -04:00 29771-30311 [D] [NOOIE-JNI-video-opengl] EGL version 1.5
+
+2021-04-12 16:54:43:372 -04:00 29771-30310 [T] [NOOIE-JNI-video-decoder-mediacodec] start of video decode      
+
+2021-04-12 16:54:43:373 -04:00 29771-30311 [D] [NOOIE-JNI-video-opengl] GL Version = OpenGL ES 3.2 V@415.0 (GIT@2b7f70b, I2201c46a59, 1600955153) (Date:09/24/20)
+
+2021-04-12 16:54:43:373 -04:00 29771-30311 [D] [NOOIE-JNI-video-opengl] GL Vendor = Qualcomm
+
+2021-04-12 16:54:43:373 -04:00 29771-30311 [D] [NOOIE-JNI-video-opengl] GL Renderer = Adreno (TM) 612
+
+2021-04-12 16:54:43:373 -04:00 29771-30311 [C] [NOOIE-JNI-video-opengl] OPENGL ES EXTENSION: GL_OES_EGL_image GL_OES_EGL_image_external GL_OES_EGL_sync GL_OES_vertex_half_float GL_OES_framebuffer_object GL_OES_rgb8_rgba8 GL_OES_compressed_ETC1_RGB8_texture GL_AMD_compressed_ATC_texture GL_KHR_texture_compression_astc_ldr GL_OES_texture_npot GL_EXT_texture_filter_anisotropic GL_EXT_texture_format_BGRA8888 GL_EXT_read_format_bgra GL_OES_texture_3D GL_EXT_color_buffer_float GL_EXT_color_buffer_half_float GL_QCOM_alpha_test GL_OES_depth24 GL_OES_packed_depth_stencil GL_OES_depth_texture GL_OES_depth_texture_cube_map GL_EXT_sRGB GL_OES_texture_float GL_OES_texture_float_linear GL_OES_texture_half_float GL_OES_texture_half_float_linear GL_EXT_texture_type_2_10_10_10_REV GL_EXT_texture_sRGB_decode GL_EXT_texture_format_sRGB_override GL_OES_element_index_uint GL_EXT_copy_image GL_EXT_geometry_shader GL_EXT_tessellation_shader GL_OES_texture_stencil8 GL_EXT_shader_io_blocks GL_OES_shader_image_atomic GL_OES_sample_variables GL_EXT_texture_border_clamp GL_EXT_EGL_image_external_wrap_modes GL_EXT_multisampled_render_to_texture GL_EXT_multisampled_render_to_texture2 GL_OES_shader_multisample_interpolation GL_EXT_texture_cube_map_array GL_EXT_draw_buffers_indexed GL_EXT_gpu_shader5 GL_EXT_robustness GL_EXT_texture_buffer GL_EXT_shader_framebuffer_fetch GL_ARM_shader_framebuffer_fetch_depth_stencil GL_OES_texture_storage_multisample_2d_array GL_OES_sample_shading GL_OES_get_program_binary GL_EXT_debug_label GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_QCOM_tiled_rendering GL_ANDROID_extension_pack_es31a GL_EXT_primitive_bounding_box GL_OES_standard_derivatives GL_OES_vertex_array_object GL_EXT_disjoint_timer_query GL_KHR_debug GL_EXT_YUV_target GL_EXT_sRGB_write_control GL_EXT_texture_norm16 GL_EXT_discard_framebuffer GL_OES_surfaceless_context GL_OVR_multiview GL_OVR_multiview2 GL_EXT_texture_sRGB_R8 GL_KHR_no_error GL_EXT_debug_marker GL_OES_EGL_image_external_essl3 GL_OVR_multiview_multisampled_render_to_texture GL_EXT_buffer_storage GL_EXT_external_buffer GL_EXT_blit_framebuffer_params GL_EXT_clip_cull_distance GL_EXT_protected_textures GL_EXT_shader_non_constant_global_initializers GL_QCOM_texture_foveated GL_QCOM_texture_foveated_subsampled_layout GL_QCOM_shader_framebuffer_fetch_noncoherent GL_QCOM_shader_framebuffer_fetch_rate GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_EGL_image_array GL_NV_shader_noperspective_interpolation GL_KHR_robust_buffer_access_behavior GL_EXT_EGL_image_storage GL_EXT_blend_func_extended GL_EXT_clip_control GL_OES_texture_view GL_EXT_fragment_invocation_density GL_QCOM_YUV_texture_gather            
+
+2021-04-12 16:54:43:373 -04:00 29771-30311 [C] [NOOIE-JNI-video-opengl] OPENGL ES EXTENSION: GL_OES_EGL_image GL_OES_EGL_image_external GL_OES_EGL_sync GL_OES_vertex_half_float GL_OES_framebuffer_object GL_OES_rgb8_rgba8 GL_OES_compressed_ETC1_RGB8_texture GL_AMD_compressed_ATC_texture GL_KHR_texture_compression_astc_ldr GL_OES_texture_npot GL_EXT_texture_filter_anisotropic GL_EXT_texture_format_BGRA8888 GL_EXT_read_format_bgra GL_OES_texture_3D GL_EXT_color_buffer_float GL_EXT_color_buffer_half_float GL_QCOM_alpha_test GL_OES_depth24 GL_OES_packed_depth_stencil GL_OES_depth_texture GL_OES_depth_texture_cube_map GL_EXT_sRGB GL_OES_texture_float GL_OES_texture_float_linear GL_OES_texture_half_float GL_OES_texture_half_float_linear GL_EXT_texture_type_2_10_10_10_REV GL_EXT_texture_sRGB_decode GL_EXT_texture_format_sRGB_override GL_OES_element_index_uint GL_EXT_copy_image GL_EXT_geometry_shader GL_EXT_tessellation_shader GL_OES_texture_stencil8 GL_EXT_shader_io_blocks GL_OES_shader_image_atomic GL_OES_sample_variables GL_EXT_texture_border_clamp GL_EXT_EGL_image_external_wrap_modes GL_EXT_multisampled_render_to_texture GL_EXT_multisampled_render_to_texture2 GL_OES_shader_multisample_interpolation GL_EXT_texture_cube_map_array GL_EXT_draw_buffers_indexed GL_EXT_gpu_shader5 GL_EXT_robustness GL_EXT_texture_buffer GL_EXT_shader_framebuffer_fetch GL_ARM_shader_framebuffer_fetch_depth_stencil GL_OES_texture_storage_multisample_2d_array GL_OES_sample_shading GL_OES_get_program_binary GL_EXT_debug_label GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_QCOM_tiled_rendering GL_ANDROID_extension_pack_es31a GL_EXT_primitive_bounding_box GL_OES_standard_derivatives GL_OES_vertex_array_object GL_EXT_disjoint_timer_query GL_KHR_debug GL_EXT_YUV_target GL_EXT_sRGB_write_control GL_EXT_texture_norm16 GL_EXT_discard_framebuffer GL_OES_surfaceless_context GL_OVR_multiview GL_OVR_multiview2 GL_EXT_texture_sRGB_R8 GL_KHR_no_error GL_EXT_debug_marker GL_OES_EGL_image_external_essl3 GL_OVR_multiview_multisampled_render_to_texture GL_EXT_buffer_storage GL_EXT_external_buffer GL_EXT_blit_framebuffer_params GL_EXT_clip_cull_distance GL_EXT_protected_textures GL_EXT_shader_non_constant_global_initializers GL_QCOM_texture_foveated GL_QCOM_texture_foveated_subsampled_layout GL_QCOM_shader_framebuffer_fetch_noncoherent GL_QCOM_shader_framebuffer_fetch_rate GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_EGL_image_array GL_NV_shader_noperspective_interpolation GL_KHR_robust_buffer_access_behavior GL_EXT_EGL_image_storage GL_EXT_blend_func_extended GL_EXT_clip_control GL_OES_texture_view GL_EXT_fragment_invocation_density GL_QCOM_YUV_texture_gather            
+
+2021-04-12 16:54:43:373 -04:00 29771-30311 [D] [NOOIE-JNI-video-opengl] support npot           
+
+2021-04-12 16:54:43:373 -04:00 29771-30311 [C] [NOOIE-JNI-video-opengl] render Adreno (TM) 612 
+
+2021-04-12 16:54:43:375 -04:00 29771-29771 [C] [NOOIE-JNI-player] =========>>>start new player 0xBAB42300 [2]==================
+
+2021-04-12 16:54:43:375 -04:00 29771-29771 [C] [NOOIE-JNI-players] create_player 0xbab42300    
+
+2021-04-12 16:54:43:375 -04:00 29771-29771 [T] [NOOIE-JNI-player] fp_player_setup_notify [1] 0xBAB42300 -> 0x2E92              
+
+2021-04-12 16:54:43:376 -04:00 29771-30315 [T] [NOOIE-JNI-player] start of player statistic worker             
+
+2021-04-12 16:54:43:376 -04:00 29771-29771 [D] [NooieDoorbellPlaybackActivity$4] --->> NooieDoorbellPlaybackActivity NOOIE-  startNooieCloudPlayback code 0    
+
+2021-04-12 16:54:43:376 -04:00 29771-30312 [T] [NOOIE-JNI-audio-decoder-ffmpeg] start of audio decode          
+
+2021-04-12 16:54:43:376 -04:00 29771-30314 [T] [NOOIE-JNI-input] start of input[1] 0xE6191100  
+
+2021-04-12 16:54:43:376 -04:00 29771-30314 [C] [NOOIE-JNI-demux-cloud] start nooie cloud playback              
+
+2021-04-12 16:54:43:377 -04:00 29771-30314 [T] [NOOIE-JNI-input] start of input[2] 0xE6191100  
+
+2021-04-12 16:54:43:377 -04:00 29771-30314 [T] [NOOIE-JNI-input] start of input[3] 0xE6191100  
+
+2021-04-12 16:54:43:377 -04:00 29771-30317 [T] [NOOIE-JNI-input] start input aud worker        
+
+2021-04-12 16:54:43:378 -04:00 29771-30316 [T] [NOOIE-JNI-demux-cloud] start of read files     
+
+2021-04-12 16:54:43:378 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] seek nooie cloud playback index 503     
+
+2021-04-12 16:54:43:378 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] current index 503 total 508             
+
+2021-04-12 16:54:43:378 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] play timestamp [base: 1618185600 -> 56924] 1618242524   
+
+2021-04-12 16:54:43:378 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] info 4adcd2139621b1ef16182608848c6b8a4030068fef5e3ceb3b3cbaeee82d586b7630c20965 size: 74
+
+2021-04-12 16:54:43:378 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] secret 9e03f0b14adcd2139621b1ef984b2ac0 size: 32        
+
+2021-04-12 16:54:43:381 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] sha256 hex data c90b61ec62fe171594e81d3275bfbced330af9ce743e69d0911134078981a08d size: 64               
+
+2021-04-12 16:54:43:381 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] base64 data YzkwYjYxZWM2MmZlMTcxNTk0ZTgxZDMyNzViZmJjZWQzMzBhZjljZTc0M2U2OWQwOTExMTM0MDc4OTgxYTA4ZA== size: 88           
+
+2021-04-12 16:54:43:381 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req /rest/v2/fileget_presignurl?deviceid=6611992915f9ba93d58b35d1e6bd86ae&userid=8c6b8a4030068fef&starttime=1618242524&filetype=mov&expiration=3&bindtype=1&file_prefix=nooie           
+
+2021-04-12 16:54:43:382 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> start wait        
+
+2021-04-12 16:54:43:391 -04:00 29771-30318 [C] [NOOIE-JNI-net] detect net wroker -> 1          
+
+2021-04-12 16:54:43:391 -04:00 29771-30318 [C] [NOOIE-JNI-net] detect net start
+
+2021-04-12 16:54:43:394 -04:00 29771-30311 [T] [NOOIE-JNI-video-output] start of video output  
+
+2021-04-12 16:54:43:394 -04:00 29771-30319 [C] [NOOIE-JNI-video-output] start cmd worker       
+
+2021-04-12 16:54:43:397 -04:00 29771-30318 [C] [NOOIE-JNI-net] detect network dns start        
+
+2021-04-12 16:54:43:401 -04:00 29771-30318 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv6             
+
+2021-04-12 16:54:43:401 -04:00 29771-30318 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv4             
+
+2021-04-12 16:54:43:401 -04:00 29771-30318 [C] [NOOIE-JNI-net] deteck net type IPV4_IPV6       
+
+2021-04-12 16:54:43:401 -04:00 29771-30318 [C] [NOOIE-JNI-net] detect net type IPV4_IPV6       
+
+2021-04-12 16:54:43:401 -04:00 29771-30318 [C] [NOOIE-JNI-net] detect net wroker -> 2          
+
+2021-04-12 16:54:43:401 -04:00 29771-30318 [C] [NOOIE-JNI-net] detect net wroker -> 3          
+
+2021-04-12 16:54:43:401 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> wait finish       
+
+2021-04-12 16:54:43:401 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req address:power123.nooie.com port:443 
+
+2021-04-12 16:54:43:401 -04:00 29771-30316 [C] [NOOIE-network] -->>create TCP connection       
+
+2021-04-12 16:54:43:401 -04:00 29771-30316 [C] [NOOIE-network] getaddrinfo(power123.nooie.com) error ipv6 -> Success!
+
+2021-04-12 16:54:43:402 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] request result len -2   
+
+2021-04-12 16:54:43:421 -04:00 29771-30313 [T] [NOOIE-JNI-audio-output] start of audio output  
+
+2021-04-12 16:54:43:421 -04:00 29771-30326 [C] [NOOIE-JNI-audio-output] start cmd worker       
+
+2021-04-12 16:54:43:421 -04:00 29771-30325 [T] [NOOIE-JNI-audio-render] start of wave out      
+
+2021-04-12 16:54:43:902 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] current index 503 total 508             
+
+2021-04-12 16:54:43:902 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] play timestamp [base: 1618185600 -> 56924] 1618242524   
+
+2021-04-12 16:54:43:902 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] info 4adcd2139621b1ef16182608848c6b8a4030068fef5e3ceb3b3cbaeee82d586b7630c20965 size: 74
+
+2021-04-12 16:54:43:902 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] secret 9e03f0b14adcd2139621b1ef984b2ac0 size: 32        
+
+2021-04-12 16:54:43:902 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] sha256 hex data c90b61ec62fe171594e81d3275bfbced330af9ce743e69d0911134078981a08d size: 64               
+
+2021-04-12 16:54:43:902 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] base64 data YzkwYjYxZWM2MmZlMTcxNTk0ZTgxZDMyNzViZmJjZWQzMzBhZjljZTc0M2U2OWQwOTExMTM0MDc4OTgxYTA4ZA== size: 88           
+
+2021-04-12 16:54:43:902 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req /rest/v2/fileget_presignurl?deviceid=6611992915f9ba93d58b35d1e6bd86ae&userid=8c6b8a4030068fef&starttime=1618242524&filetype=mov&expiration=3&bindtype=1&file_prefix=nooie           
+
+2021-04-12 16:54:43:902 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> start wait        
+
+2021-04-12 16:54:43:903 -04:00 29771-30330 [C] [NOOIE-JNI-net] detect net wroker -> 1          
+
+2021-04-12 16:54:43:903 -04:00 29771-30330 [C] [NOOIE-JNI-net] detect net start
+
+2021-04-12 16:54:43:908 -04:00 29771-30330 [C] [NOOIE-JNI-net] detect network dns start        
+
+2021-04-12 16:54:43:916 -04:00 29771-30330 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv6             
+
+2021-04-12 16:54:43:916 -04:00 29771-30330 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv4             
+
+2021-04-12 16:54:43:916 -04:00 29771-30330 [C] [NOOIE-JNI-net] deteck net type IPV4_IPV6       
+
+2021-04-12 16:54:43:916 -04:00 29771-30330 [C] [NOOIE-JNI-net] detect net type IPV4_IPV6       
+
+2021-04-12 16:54:43:916 -04:00 29771-30330 [C] [NOOIE-JNI-net] detect net wroker -> 2          
+
+2021-04-12 16:54:43:916 -04:00 29771-30330 [C] [NOOIE-JNI-net] detect net wroker -> 3          
+
+2021-04-12 16:54:43:916 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> wait finish       
+
+2021-04-12 16:54:43:916 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req address:power123.nooie.com port:443 
+
+2021-04-12 16:54:43:916 -04:00 29771-30316 [C] [NOOIE-network] -->>create TCP connection       
+
+2021-04-12 16:54:43:917 -04:00 29771-30316 [C] [NOOIE-network] getaddrinfo(power123.nooie.com) error ipv6 -> Success!
+
+2021-04-12 16:54:43:917 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] request result len -2   
+
+2021-04-12 16:54:44:417 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] current index 503 total 508             
+
+2021-04-12 16:54:44:417 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] play timestamp [base: 1618185600 -> 56924] 1618242524   
+
+2021-04-12 16:54:44:417 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] info 4adcd2139621b1ef16182608858c6b8a4030068fef5e3ceb3b3cbaeee82d586b7630c20965 size: 74
+
+2021-04-12 16:54:44:417 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] secret 9e03f0b14adcd2139621b1ef984b2ac0 size: 32        
+
+2021-04-12 16:54:44:417 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] sha256 hex data 43bf2c5d810b3770ade64a183efa015221e6fc4b3dc2e7879ba7c674c712f180 size: 64               
+
+2021-04-12 16:54:44:417 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] base64 data NDNiZjJjNWQ4MTBiMzc3MGFkZTY0YTE4M2VmYTAxNTIyMWU2ZmM0YjNkYzJlNzg3OWJhN2M2NzRjNzEyZjE4MA== size: 88           
+
+2021-04-12 16:54:44:417 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req /rest/v2/fileget_presignurl?deviceid=6611992915f9ba93d58b35d1e6bd86ae&userid=8c6b8a4030068fef&starttime=1618242524&filetype=mov&expiration=3&bindtype=1&file_prefix=nooie           
+
+2021-04-12 16:54:44:419 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> start wait        
+
+2021-04-12 16:54:44:421 -04:00 29771-30333 [C] [NOOIE-JNI-net] detect net wroker -> 1          
+
+2021-04-12 16:54:44:421 -04:00 29771-30333 [C] [NOOIE-JNI-net] detect net start
+
+2021-04-12 16:54:44:424 -04:00 29771-30333 [C] [NOOIE-JNI-net] detect network dns start        
+
+2021-04-12 16:54:44:429 -04:00 29771-30333 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv6             
+
+2021-04-12 16:54:44:429 -04:00 29771-30333 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv4             
+
+2021-04-12 16:54:44:429 -04:00 29771-30333 [C] [NOOIE-JNI-net] deteck net type IPV4_IPV6       
+
+2021-04-12 16:54:44:429 -04:00 29771-30333 [C] [NOOIE-JNI-net] detect net type IPV4_IPV6       
+
+2021-04-12 16:54:44:429 -04:00 29771-30333 [C] [NOOIE-JNI-net] detect net wroker -> 2          
+
+2021-04-12 16:54:44:429 -04:00 29771-30333 [C] [NOOIE-JNI-net] detect net wroker -> 3          
+
+2021-04-12 16:54:44:429 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> wait finish       
+
+2021-04-12 16:54:44:429 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req address:power123.nooie.com port:443 
+
+2021-04-12 16:54:44:429 -04:00 29771-30316 [C] [NOOIE-network] -->>create TCP connection       
+
+2021-04-12 16:54:44:430 -04:00 29771-30316 [C] [NOOIE-network] getaddrinfo(power123.nooie.com) error ipv6 -> Success!
+
+2021-04-12 16:54:44:430 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] request result len -2   
+
+2021-04-12 16:54:44:931 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] current index 503 total 508             
+
+2021-04-12 16:54:44:931 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] play timestamp [base: 1618185600 -> 56924] 1618242524   
+
+2021-04-12 16:54:44:931 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] info 4adcd2139621b1ef16182608858c6b8a4030068fef5e3ceb3b3cbaeee82d586b7630c20965 size: 74
+
+2021-04-12 16:54:44:931 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] secret 9e03f0b14adcd2139621b1ef984b2ac0 size: 32        
+
+2021-04-12 16:54:44:931 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] sha256 hex data 43bf2c5d810b3770ade64a183efa015221e6fc4b3dc2e7879ba7c674c712f180 size: 64               
+
+2021-04-12 16:54:44:931 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] base64 data NDNiZjJjNWQ4MTBiMzc3MGFkZTY0YTE4M2VmYTAxNTIyMWU2ZmM0YjNkYzJlNzg3OWJhN2M2NzRjNzEyZjE4MA== size: 88           
+
+2021-04-12 16:54:44:931 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req /rest/v2/fileget_presignurl?deviceid=6611992915f9ba93d58b35d1e6bd86ae&userid=8c6b8a4030068fef&starttime=1618242524&filetype=mov&expiration=3&bindtype=1&file_prefix=nooie           
+
+2021-04-12 16:54:44:932 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> start wait        
+
+2021-04-12 16:54:44:933 -04:00 29771-30337 [C] [NOOIE-JNI-net] detect net wroker -> 1          
+
+2021-04-12 16:54:44:933 -04:00 29771-30337 [C] [NOOIE-JNI-net] detect net start
+
+2021-04-12 16:54:44:936 -04:00 29771-30337 [C] [NOOIE-JNI-net] detect network dns start        
+
+2021-04-12 16:54:44:940 -04:00 29771-30337 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv6             
+
+2021-04-12 16:54:44:940 -04:00 29771-30337 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv4             
+
+2021-04-12 16:54:44:940 -04:00 29771-30337 [C] [NOOIE-JNI-net] deteck net type IPV4_IPV6       
+
+2021-04-12 16:54:44:940 -04:00 29771-30337 [C] [NOOIE-JNI-net] detect net type IPV4_IPV6       
+
+2021-04-12 16:54:44:940 -04:00 29771-30337 [C] [NOOIE-JNI-net] detect net wroker -> 2          
+
+2021-04-12 16:54:44:940 -04:00 29771-30337 [C] [NOOIE-JNI-net] detect net wroker -> 3          
+
+2021-04-12 16:54:44:940 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> wait finish       
+
+2021-04-12 16:54:44:940 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req address:power123.nooie.com port:443 
+
+2021-04-12 16:54:44:940 -04:00 29771-30316 [C] [NOOIE-network] -->>create TCP connection       
+
+2021-04-12 16:54:44:941 -04:00 29771-30316 [C] [NOOIE-network] getaddrinfo(power123.nooie.com) error ipv6 -> Success!
+
+2021-04-12 16:54:44:941 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] request result len -2   
+
+2021-04-12 16:54:45:441 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] current index 503 total 508             
+
+2021-04-12 16:54:45:442 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] play timestamp [base: 1618185600 -> 56924] 1618242524   
+
+2021-04-12 16:54:45:442 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] info 4adcd2139621b1ef16182608868c6b8a4030068fef5e3ceb3b3cbaeee82d586b7630c20965 size: 74
+
+2021-04-12 16:54:45:442 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] secret 9e03f0b14adcd2139621b1ef984b2ac0 size: 32        
+
+2021-04-12 16:54:45:442 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] sha256 hex data 1d9fa0227220424c867fcba44d5a21aa6f5dc4867cfbb25f6c78aa7d8096b248 size: 64               
+
+2021-04-12 16:54:45:442 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] base64 data MWQ5ZmEwMjI3MjIwNDI0Yzg2N2ZjYmE0NGQ1YTIxYWE2ZjVkYzQ4NjdjZmJiMjVmNmM3OGFhN2Q4MDk2YjI0OA== size: 88           
+
+2021-04-12 16:54:45:442 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req /rest/v2/fileget_presignurl?deviceid=6611992915f9ba93d58b35d1e6bd86ae&userid=8c6b8a4030068fef&starttime=1618242524&filetype=mov&expiration=3&bindtype=1&file_prefix=nooie           
+
+2021-04-12 16:54:45:442 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> start wait        
+
+2021-04-12 16:54:45:443 -04:00 29771-30340 [C] [NOOIE-JNI-net] detect net wroker -> 1          
+
+2021-04-12 16:54:45:443 -04:00 29771-30340 [C] [NOOIE-JNI-net] detect net start
+
+2021-04-12 16:54:45:447 -04:00 29771-30340 [C] [NOOIE-JNI-net] detect network dns start        
+
+2021-04-12 16:54:45:455 -04:00 29771-30340 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv6             
+
+2021-04-12 16:54:45:455 -04:00 29771-30340 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv4             
+
+2021-04-12 16:54:45:455 -04:00 29771-30340 [C] [NOOIE-JNI-net] deteck net type IPV4_IPV6       
+
+2021-04-12 16:54:45:455 -04:00 29771-30340 [C] [NOOIE-JNI-net] detect net type IPV4_IPV6       
+
+2021-04-12 16:54:45:455 -04:00 29771-30340 [C] [NOOIE-JNI-net] detect net wroker -> 2          
+
+2021-04-12 16:54:45:455 -04:00 29771-30340 [C] [NOOIE-JNI-net] detect net wroker -> 3          
+
+2021-04-12 16:54:45:455 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> wait finish       
+
+2021-04-12 16:54:45:455 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req address:power123.nooie.com port:443 
+
+2021-04-12 16:54:45:455 -04:00 29771-30316 [C] [NOOIE-network] -->>create TCP connection       
+
+2021-04-12 16:54:45:456 -04:00 29771-30316 [C] [NOOIE-network] getaddrinfo(power123.nooie.com) error ipv6 -> Success!
+
+2021-04-12 16:54:45:456 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] request result len -2   
+
+2021-04-12 16:54:45:957 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] current index 504 total 508             
+
+2021-04-12 16:54:45:957 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] play timestamp [base: 1618185600 -> 56984] 1618242584   
+
+2021-04-12 16:54:45:957 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] info 4adcd2139621b1ef16182608868c6b8a4030068fef5e3ceb3b3cbaeee82d586b7630c20965 size: 74
+
+2021-04-12 16:54:45:957 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] secret 9e03f0b14adcd2139621b1ef984b2ac0 size: 32        
+
+2021-04-12 16:54:45:957 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] sha256 hex data 1d9fa0227220424c867fcba44d5a21aa6f5dc4867cfbb25f6c78aa7d8096b248 size: 64               
+
+2021-04-12 16:54:45:957 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] base64 data MWQ5ZmEwMjI3MjIwNDI0Yzg2N2ZjYmE0NGQ1YTIxYWE2ZjVkYzQ4NjdjZmJiMjVmNmM3OGFhN2Q4MDk2YjI0OA== size: 88           
+
+2021-04-12 16:54:45:957 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req /rest/v2/fileget_presignurl?deviceid=6611992915f9ba93d58b35d1e6bd86ae&userid=8c6b8a4030068fef&starttime=1618242584&filetype=mov&expiration=3&bindtype=1&file_prefix=nooie           
+
+2021-04-12 16:54:45:958 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> start wait        
+
+2021-04-12 16:54:45:959 -04:00 29771-30343 [C] [NOOIE-JNI-net] detect net wroker -> 1          
+
+2021-04-12 16:54:45:959 -04:00 29771-30343 [C] [NOOIE-JNI-net] detect net start
+
+2021-04-12 16:54:45:965 -04:00 29771-30343 [C] [NOOIE-JNI-net] detect network dns start        
+
+2021-04-12 16:54:45:973 -04:00 29771-30343 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv6             
+
+2021-04-12 16:54:45:973 -04:00 29771-30343 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv4             
+
+2021-04-12 16:54:45:973 -04:00 29771-30343 [C] [NOOIE-JNI-net] deteck net type IPV4_IPV6       
+
+2021-04-12 16:54:45:973 -04:00 29771-30343 [C] [NOOIE-JNI-net] detect net type IPV4_IPV6       
+
+2021-04-12 16:54:45:973 -04:00 29771-30343 [C] [NOOIE-JNI-net] detect net wroker -> 2          
+
+2021-04-12 16:54:45:973 -04:00 29771-30343 [C] [NOOIE-JNI-net] detect net wroker -> 3          
+
+2021-04-12 16:54:45:973 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> wait finish       
+
+2021-04-12 16:54:45:973 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req address:power123.nooie.com port:443 
+
+2021-04-12 16:54:45:973 -04:00 29771-30316 [C] [NOOIE-network] -->>create TCP connection       
+
+2021-04-12 16:54:45:973 -04:00 29771-30316 [C] [NOOIE-network] getaddrinfo(power123.nooie.com) error ipv6 -> Success!
+
+2021-04-12 16:54:45:973 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] request result len -2   
+
+2021-04-12 16:54:46:292 -04:00 29771-30027 [I] [NOOIE-PP] @@@@@@@@@@@ asdsendtcpmsg start tcp send heart beat,time:3108504845  
+
+2021-04-12 16:54:46:292 -04:00 29771-30027 [I] [NOOIE-PP] @@@@@@@@@@@ asdsendtcpmsg over tcp send heart beat,time:3108506060   
+
+2021-04-12 16:54:46:293 -04:00 29771-30027 [I] [NOOIE-PP] --------3-----:104   
+
+2021-04-12 16:54:46:388 -04:00 29771-30027 [I] [NOOIE-PP] -----OP_HEART_BEAT---23------op:14   
+
+2021-04-12 16:54:46:403 -04:00 29771-30318 [C] [NOOIE-JNI-net] detect net wroker -> 4          
+
+2021-04-12 16:54:46:403 -04:00 29771-30318 [C] [NOOIE-JNI-net] detect net wroker -> 5          
+
+2021-04-12 16:54:46:474 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] current index 504 total 508             
+
+2021-04-12 16:54:46:474 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] play timestamp [base: 1618185600 -> 56984] 1618242584   
+
+2021-04-12 16:54:46:474 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] info 4adcd2139621b1ef16182608878c6b8a4030068fef5e3ceb3b3cbaeee82d586b7630c20965 size: 74
+
+2021-04-12 16:54:46:474 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] secret 9e03f0b14adcd2139621b1ef984b2ac0 size: 32        
+
+2021-04-12 16:54:46:474 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] sha256 hex data d16d3cecb69145224937de20f65fd56bafb94ccb8eac42e727dba6e165703727 size: 64               
+
+2021-04-12 16:54:46:474 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] base64 data ZDE2ZDNjZWNiNjkxNDUyMjQ5MzdkZTIwZjY1ZmQ1NmJhZmI5NGNjYjhlYWM0MmU3MjdkYmE2ZTE2NTcwMzcyNw== size: 88           
+
+2021-04-12 16:54:46:474 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req /rest/v2/fileget_presignurl?deviceid=6611992915f9ba93d58b35d1e6bd86ae&userid=8c6b8a4030068fef&starttime=1618242584&filetype=mov&expiration=3&bindtype=1&file_prefix=nooie           
+
+2021-04-12 16:54:46:475 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> start wait        
+
+2021-04-12 16:54:46:475 -04:00 29771-30346 [C] [NOOIE-JNI-net] detect net wroker -> 1          
+
+2021-04-12 16:54:46:475 -04:00 29771-30346 [C] [NOOIE-JNI-net] detect net start
+
+2021-04-12 16:54:46:482 -04:00 29771-30346 [C] [NOOIE-JNI-net] detect network dns start        
+
+2021-04-12 16:54:46:493 -04:00 29771-30346 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv6             
+
+2021-04-12 16:54:46:494 -04:00 29771-30346 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv4             
+
+2021-04-12 16:54:46:494 -04:00 29771-30346 [C] [NOOIE-JNI-net] deteck net type IPV4_IPV6       
+
+2021-04-12 16:54:46:494 -04:00 29771-30346 [C] [NOOIE-JNI-net] detect net type IPV4_IPV6       
+
+2021-04-12 16:54:46:494 -04:00 29771-30346 [C] [NOOIE-JNI-net] detect net wroker -> 2          
+
+2021-04-12 16:54:46:494 -04:00 29771-30346 [C] [NOOIE-JNI-net] detect net wroker -> 3          
+
+2021-04-12 16:54:46:494 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> wait finish       
+
+2021-04-12 16:54:46:494 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req address:power123.nooie.com port:443 
+
+2021-04-12 16:54:46:494 -04:00 29771-30316 [C] [NOOIE-network] -->>create TCP connection       
+
+2021-04-12 16:54:46:494 -04:00 29771-30316 [C] [NOOIE-network] getaddrinfo(power123.nooie.com) error ipv6 -> Success!
+
+2021-04-12 16:54:46:494 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] request result len -2   
+
+2021-04-12 16:54:46:809 -04:00 29771-30031 [I] [NOOIE-PP] @@@@@@@@@@@ asdsendtcpmsg start tcp send heart beat,time:3109022251  
+
+2021-04-12 16:54:46:810 -04:00 29771-30031 [I] [NOOIE-PP] @@@@@@@@@@@ asdsendtcpmsg over tcp send heart beat,time:3109023235   
+
+2021-04-12 16:54:46:810 -04:00 29771-30031 [I] [NOOIE-PP] --------3-----:104   
+
+2021-04-12 16:54:46:907 -04:00 29771-30031 [I] [NOOIE-PP] -----OP_HEART_BEAT---23------op:14   
+
+2021-04-12 16:54:46:917 -04:00 29771-30330 [C] [NOOIE-JNI-net] detect net wroker -> 4          
+
+2021-04-12 16:54:46:917 -04:00 29771-30330 [C] [NOOIE-JNI-net] detect net wroker -> 5          
+
+2021-04-12 16:54:46:995 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] current index 504 total 508             
+
+2021-04-12 16:54:46:995 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] play timestamp [base: 1618185600 -> 56984] 1618242584   
+
+2021-04-12 16:54:46:995 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] info 4adcd2139621b1ef16182608878c6b8a4030068fef5e3ceb3b3cbaeee82d586b7630c20965 size: 74
+
+2021-04-12 16:54:46:995 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] secret 9e03f0b14adcd2139621b1ef984b2ac0 size: 32        
+
+2021-04-12 16:54:46:995 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] sha256 hex data d16d3cecb69145224937de20f65fd56bafb94ccb8eac42e727dba6e165703727 size: 64               
+
+2021-04-12 16:54:46:995 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] base64 data ZDE2ZDNjZWNiNjkxNDUyMjQ5MzdkZTIwZjY1ZmQ1NmJhZmI5NGNjYjhlYWM0MmU3MjdkYmE2ZTE2NTcwMzcyNw== size: 88           
+
+2021-04-12 16:54:46:995 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req /rest/v2/fileget_presignurl?deviceid=6611992915f9ba93d58b35d1e6bd86ae&userid=8c6b8a4030068fef&starttime=1618242584&filetype=mov&expiration=3&bindtype=1&file_prefix=nooie           
+
+2021-04-12 16:54:46:996 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> start wait        
+
+2021-04-12 16:54:46:996 -04:00 29771-30349 [C] [NOOIE-JNI-net] detect net wroker -> 1          
+
+2021-04-12 16:54:46:996 -04:00 29771-30349 [C] [NOOIE-JNI-net] detect net start
+
+2021-04-12 16:54:47:003 -04:00 29771-30349 [C] [NOOIE-JNI-net] detect network dns start        
+
+2021-04-12 16:54:47:012 -04:00 29771-30349 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv6             
+
+2021-04-12 16:54:47:013 -04:00 29771-30349 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv4             
+
+2021-04-12 16:54:47:013 -04:00 29771-30349 [C] [NOOIE-JNI-net] deteck net type IPV4_IPV6       
+
+2021-04-12 16:54:47:013 -04:00 29771-30349 [C] [NOOIE-JNI-net] detect net type IPV4_IPV6       
+
+2021-04-12 16:54:47:013 -04:00 29771-30349 [C] [NOOIE-JNI-net] detect net wroker -> 2          
+
+2021-04-12 16:54:47:013 -04:00 29771-30349 [C] [NOOIE-JNI-net] detect net wroker -> 3          
+
+2021-04-12 16:54:47:013 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> wait finish       
+
+2021-04-12 16:54:47:013 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req address:power123.nooie.com port:443 
+
+2021-04-12 16:54:47:013 -04:00 29771-30316 [C] [NOOIE-network] -->>create TCP connection       
+
+2021-04-12 16:54:47:013 -04:00 29771-30316 [C] [NOOIE-network] getaddrinfo(power123.nooie.com) error ipv6 -> Success!
+
+2021-04-12 16:54:47:013 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] request result len -2   
+
+2021-04-12 16:54:47:389 -04:00 29771-30315 [T] [NOOIE-JNI-FPMessage] msg-recycle 	7 + 	3 = 	10 
+
+2021-04-12 16:54:47:430 -04:00 29771-30333 [C] [NOOIE-JNI-net] detect net wroker -> 4          
+
+2021-04-12 16:54:47:431 -04:00 29771-30333 [C] [NOOIE-JNI-net] detect net wroker -> 5          
+
+2021-04-12 16:54:47:514 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] current index 504 total 508             
+
+2021-04-12 16:54:47:514 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] play timestamp [base: 1618185600 -> 56984] 1618242584   
+
+2021-04-12 16:54:47:514 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] info 4adcd2139621b1ef16182608888c6b8a4030068fef5e3ceb3b3cbaeee82d586b7630c20965 size: 74
+
+2021-04-12 16:54:47:514 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] secret 9e03f0b14adcd2139621b1ef984b2ac0 size: 32        
+
+2021-04-12 16:54:47:514 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] sha256 hex data 8fa7943f0789c8ef519e93f5191737f0c1e7a8c1f2b1f27c36b522b4c4b143be size: 64               
+
+2021-04-12 16:54:47:514 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] base64 data OGZhNzk0M2YwNzg5YzhlZjUxOWU5M2Y1MTkxNzM3ZjBjMWU3YThjMWYyYjFmMjdjMzZiNTIyYjRjNGIxNDNiZQ== size: 88           
+
+2021-04-12 16:54:47:514 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req /rest/v2/fileget_presignurl?deviceid=6611992915f9ba93d58b35d1e6bd86ae&userid=8c6b8a4030068fef&starttime=1618242584&filetype=mov&expiration=3&bindtype=1&file_prefix=nooie           
+
+2021-04-12 16:54:47:515 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> start wait        
+
+2021-04-12 16:54:47:515 -04:00 29771-30352 [C] [NOOIE-JNI-net] detect net wroker -> 1          
+
+2021-04-12 16:54:47:515 -04:00 29771-30352 [C] [NOOIE-JNI-net] detect net start
+
+2021-04-12 16:54:47:522 -04:00 29771-30352 [C] [NOOIE-JNI-net] detect network dns start        
+
+2021-04-12 16:54:47:533 -04:00 29771-30352 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv6             
+
+2021-04-12 16:54:47:533 -04:00 29771-30352 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv4             
+
+2021-04-12 16:54:47:533 -04:00 29771-30352 [C] [NOOIE-JNI-net] deteck net type IPV4_IPV6       
+
+2021-04-12 16:54:47:533 -04:00 29771-30352 [C] [NOOIE-JNI-net] detect net type IPV4_IPV6       
+
+2021-04-12 16:54:47:533 -04:00 29771-30352 [C] [NOOIE-JNI-net] detect net wroker -> 2          
+
+2021-04-12 16:54:47:533 -04:00 29771-30352 [C] [NOOIE-JNI-net] detect net wroker -> 3          
+
+2021-04-12 16:54:47:533 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> wait finish       
+
+2021-04-12 16:54:47:533 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req address:power123.nooie.com port:443 
+
+2021-04-12 16:54:47:533 -04:00 29771-30316 [C] [NOOIE-network] -->>create TCP connection       
+
+2021-04-12 16:54:47:534 -04:00 29771-30316 [C] [NOOIE-network] getaddrinfo(power123.nooie.com) error ipv6 -> Success!
+
+2021-04-12 16:54:47:534 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] request result len -2   
+
+2021-04-12 16:54:47:940 -04:00 29771-30337 [C] [NOOIE-JNI-net] detect net wroker -> 4          
+
+2021-04-12 16:54:47:940 -04:00 29771-30337 [C] [NOOIE-JNI-net] detect net wroker -> 5          
+
+2021-04-12 16:54:48:034 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] current index 504 total 508             
+
+2021-04-12 16:54:48:035 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] play timestamp [base: 1618185600 -> 56984] 1618242584   
+
+2021-04-12 16:54:48:035 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] info 4adcd2139621b1ef16182608898c6b8a4030068fef5e3ceb3b3cbaeee82d586b7630c20965 size: 74
+
+2021-04-12 16:54:48:035 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] secret 9e03f0b14adcd2139621b1ef984b2ac0 size: 32        
+
+2021-04-12 16:54:48:035 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] sha256 hex data 2a76d0815d66d8a3996b75dce10e7a0e19bfead956ea2fcada6b0e51d861fa3f size: 64               
+
+2021-04-12 16:54:48:035 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] base64 data MmE3NmQwODE1ZDY2ZDhhMzk5NmI3NWRjZTEwZTdhMGUxOWJmZWFkOTU2ZWEyZmNhZGE2YjBlNTFkODYxZmEzZg== size: 88           
+
+2021-04-12 16:54:48:035 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req /rest/v2/fileget_presignurl?deviceid=6611992915f9ba93d58b35d1e6bd86ae&userid=8c6b8a4030068fef&starttime=1618242584&filetype=mov&expiration=3&bindtype=1&file_prefix=nooie           
+
+2021-04-12 16:54:48:035 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> start wait        
+
+2021-04-12 16:54:48:036 -04:00 29771-30357 [C] [NOOIE-JNI-net] detect net wroker -> 1          
+
+2021-04-12 16:54:48:036 -04:00 29771-30357 [C] [NOOIE-JNI-net] detect net start
+
+2021-04-12 16:54:48:041 -04:00 29771-30357 [C] [NOOIE-JNI-net] detect network dns start        
+
+2021-04-12 16:54:48:051 -04:00 29771-30357 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv6             
+
+2021-04-12 16:54:48:051 -04:00 29771-30357 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv4             
+
+2021-04-12 16:54:48:051 -04:00 29771-30357 [C] [NOOIE-JNI-net] deteck net type IPV4_IPV6       
+
+2021-04-12 16:54:48:051 -04:00 29771-30357 [C] [NOOIE-JNI-net] detect net type IPV4_IPV6       
+
+2021-04-12 16:54:48:051 -04:00 29771-30357 [C] [NOOIE-JNI-net] detect net wroker -> 2          
+
+2021-04-12 16:54:48:051 -04:00 29771-30357 [C] [NOOIE-JNI-net] detect net wroker -> 3          
+
+2021-04-12 16:54:48:051 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> wait finish       
+
+2021-04-12 16:54:48:051 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req address:power123.nooie.com port:443 
+
+2021-04-12 16:54:48:054 -04:00 29771-30316 [C] [NOOIE-network] -->>create TCP connection       
+
+2021-04-12 16:54:48:054 -04:00 29771-30316 [C] [NOOIE-network] getaddrinfo(power123.nooie.com) error ipv6 -> Success!
+
+2021-04-12 16:54:48:054 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] request result len -2   
+
+2021-04-12 16:54:48:455 -04:00 29771-30340 [C] [NOOIE-JNI-net] detect net wroker -> 4          
+
+2021-04-12 16:54:48:455 -04:00 29771-30340 [C] [NOOIE-JNI-net] detect net wroker -> 5          
+
+2021-04-12 16:54:48:555 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] current index 505 total 508             
+
+2021-04-12 16:54:48:555 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] play timestamp [base: 1618185600 -> 57044] 1618242644   
+
+2021-04-12 16:54:48:555 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] info 4adcd2139621b1ef16182608898c6b8a4030068fef5e3ceb3b3cbaeee82d586b7630c20965 size: 74
+
+2021-04-12 16:54:48:555 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] secret 9e03f0b14adcd2139621b1ef984b2ac0 size: 32        
+
+2021-04-12 16:54:48:555 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] sha256 hex data 2a76d0815d66d8a3996b75dce10e7a0e19bfead956ea2fcada6b0e51d861fa3f size: 64               
+
+2021-04-12 16:54:48:555 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] base64 data MmE3NmQwODE1ZDY2ZDhhMzk5NmI3NWRjZTEwZTdhMGUxOWJmZWFkOTU2ZWEyZmNhZGE2YjBlNTFkODYxZmEzZg== size: 88           
+
+2021-04-12 16:54:48:555 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req /rest/v2/fileget_presignurl?deviceid=6611992915f9ba93d58b35d1e6bd86ae&userid=8c6b8a4030068fef&starttime=1618242644&filetype=mov&expiration=3&bindtype=1&file_prefix=nooie           
+
+2021-04-12 16:54:48:556 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> start wait        
+
+2021-04-12 16:54:48:556 -04:00 29771-30360 [C] [NOOIE-JNI-net] detect net wroker -> 1          
+
+2021-04-12 16:54:48:557 -04:00 29771-30360 [C] [NOOIE-JNI-net] detect net start
+
+2021-04-12 16:54:48:562 -04:00 29771-30360 [C] [NOOIE-JNI-net] detect network dns start        
+
+2021-04-12 16:54:48:574 -04:00 29771-30360 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv6             
+
+2021-04-12 16:54:48:574 -04:00 29771-30360 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv4             
+
+2021-04-12 16:54:48:574 -04:00 29771-30360 [C] [NOOIE-JNI-net] deteck net type IPV4_IPV6       
+
+2021-04-12 16:54:48:574 -04:00 29771-30360 [C] [NOOIE-JNI-net] detect net type IPV4_IPV6       
+
+2021-04-12 16:54:48:574 -04:00 29771-30360 [C] [NOOIE-JNI-net] detect net wroker -> 2          
+
+2021-04-12 16:54:48:574 -04:00 29771-30360 [C] [NOOIE-JNI-net] detect net wroker -> 3          
+
+2021-04-12 16:54:48:574 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> wait finish       
+
+2021-04-12 16:54:48:574 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req address:power123.nooie.com port:443 
+
+2021-04-12 16:54:48:574 -04:00 29771-30316 [C] [NOOIE-network] -->>create TCP connection       
+
+2021-04-12 16:54:48:575 -04:00 29771-30316 [C] [NOOIE-network] getaddrinfo(power123.nooie.com) error ipv6 -> Success!
+
+2021-04-12 16:54:48:575 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] request result len -2   
+
+2021-04-12 16:54:48:973 -04:00 29771-30343 [C] [NOOIE-JNI-net] detect net wroker -> 4          
+
+2021-04-12 16:54:48:973 -04:00 29771-30343 [C] [NOOIE-JNI-net] detect net wroker -> 5          
+
+2021-04-12 16:54:49:076 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] current index 505 total 508             
+
+2021-04-12 16:54:49:076 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] play timestamp [base: 1618185600 -> 57044] 1618242644   
+
+2021-04-12 16:54:49:076 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] info 4adcd2139621b1ef16182608908c6b8a4030068fef5e3ceb3b3cbaeee82d586b7630c20965 size: 74
+
+2021-04-12 16:54:49:076 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] secret 9e03f0b14adcd2139621b1ef984b2ac0 size: 32        
+
+2021-04-12 16:54:49:076 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] sha256 hex data 146fc36000f0b619cab3373a6b22c2fe5fe6725c5e01b48d1cc0fc5a097b1532 size: 64               
+
+2021-04-12 16:54:49:076 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] base64 data MTQ2ZmMzNjAwMGYwYjYxOWNhYjMzNzNhNmIyMmMyZmU1ZmU2NzI1YzVlMDFiNDhkMWNjMGZjNWEwOTdiMTUzMg== size: 88           
+
+2021-04-12 16:54:49:076 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req /rest/v2/fileget_presignurl?deviceid=6611992915f9ba93d58b35d1e6bd86ae&userid=8c6b8a4030068fef&starttime=1618242644&filetype=mov&expiration=3&bindtype=1&file_prefix=nooie           
+
+2021-04-12 16:54:49:077 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> start wait        
+
+2021-04-12 16:54:49:077 -04:00 29771-30363 [C] [NOOIE-JNI-net] detect net wroker -> 1          
+
+2021-04-12 16:54:49:077 -04:00 29771-30363 [C] [NOOIE-JNI-net] detect net start
+
+2021-04-12 16:54:49:083 -04:00 29771-30363 [C] [NOOIE-JNI-net] detect network dns start        
+
+2021-04-12 16:54:49:097 -04:00 29771-30363 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv6             
+
+2021-04-12 16:54:49:097 -04:00 29771-30363 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv4             
+
+2021-04-12 16:54:49:097 -04:00 29771-30363 [C] [NOOIE-JNI-net] deteck net type IPV4_IPV6       
+
+2021-04-12 16:54:49:097 -04:00 29771-30363 [C] [NOOIE-JNI-net] detect net type IPV4_IPV6       
+
+2021-04-12 16:54:49:097 -04:00 29771-30363 [C] [NOOIE-JNI-net] detect net wroker -> 2          
+
+2021-04-12 16:54:49:097 -04:00 29771-30363 [C] [NOOIE-JNI-net] detect net wroker -> 3          
+
+2021-04-12 16:54:49:098 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> wait finish       
+
+2021-04-12 16:54:49:098 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req address:power123.nooie.com port:443 
+
+2021-04-12 16:54:49:098 -04:00 29771-30316 [C] [NOOIE-network] -->>create TCP connection       
+
+2021-04-12 16:54:49:098 -04:00 29771-30316 [C] [NOOIE-network] getaddrinfo(power123.nooie.com) error ipv6 -> Success!
+
+2021-04-12 16:54:49:098 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] request result len -2   
+
+2021-04-12 16:54:49:494 -04:00 29771-30346 [C] [NOOIE-JNI-net] detect net wroker -> 4          
+
+2021-04-12 16:54:49:494 -04:00 29771-30346 [C] [NOOIE-JNI-net] detect net wroker -> 5          
+
+2021-04-12 16:54:49:598 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] current index 505 total 508             
+
+2021-04-12 16:54:49:598 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] play timestamp [base: 1618185600 -> 57044] 1618242644   
+
+2021-04-12 16:54:49:598 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] info 4adcd2139621b1ef16182608908c6b8a4030068fef5e3ceb3b3cbaeee82d586b7630c20965 size: 74
+
+2021-04-12 16:54:49:598 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] secret 9e03f0b14adcd2139621b1ef984b2ac0 size: 32        
+
+2021-04-12 16:54:49:598 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] sha256 hex data 146fc36000f0b619cab3373a6b22c2fe5fe6725c5e01b48d1cc0fc5a097b1532 size: 64               
+
+2021-04-12 16:54:49:598 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] base64 data MTQ2ZmMzNjAwMGYwYjYxOWNhYjMzNzNhNmIyMmMyZmU1ZmU2NzI1YzVlMDFiNDhkMWNjMGZjNWEwOTdiMTUzMg== size: 88           
+
+2021-04-12 16:54:49:599 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req /rest/v2/fileget_presignurl?deviceid=6611992915f9ba93d58b35d1e6bd86ae&userid=8c6b8a4030068fef&starttime=1618242644&filetype=mov&expiration=3&bindtype=1&file_prefix=nooie           
+
+2021-04-12 16:54:49:599 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> start wait        
+
+2021-04-12 16:54:49:600 -04:00 29771-30366 [C] [NOOIE-JNI-net] detect net wroker -> 1          
+
+2021-04-12 16:54:49:600 -04:00 29771-30366 [C] [NOOIE-JNI-net] detect net start
+
+2021-04-12 16:54:49:606 -04:00 29771-30366 [C] [NOOIE-JNI-net] detect network dns start        
+
+2021-04-12 16:54:49:618 -04:00 29771-30366 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv6             
+
+2021-04-12 16:54:49:618 -04:00 29771-30366 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv4             
+
+2021-04-12 16:54:49:618 -04:00 29771-30366 [C] [NOOIE-JNI-net] deteck net type IPV4_IPV6       
+
+2021-04-12 16:54:49:618 -04:00 29771-30366 [C] [NOOIE-JNI-net] detect net type IPV4_IPV6       
+
+2021-04-12 16:54:49:619 -04:00 29771-30366 [C] [NOOIE-JNI-net] detect net wroker -> 2          
+
+2021-04-12 16:54:49:619 -04:00 29771-30366 [C] [NOOIE-JNI-net] detect net wroker -> 3          
+
+2021-04-12 16:54:49:619 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> wait finish       
+
+2021-04-12 16:54:49:619 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req address:power123.nooie.com port:443 
+
+2021-04-12 16:54:49:619 -04:00 29771-30316 [C] [NOOIE-network] -->>create TCP connection       
+
+2021-04-12 16:54:49:620 -04:00 29771-30316 [C] [NOOIE-network] getaddrinfo(power123.nooie.com) error ipv6 -> Success!
+
+2021-04-12 16:54:49:620 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] request result len -2   
+
+2021-04-12 16:54:50:013 -04:00 29771-30349 [C] [NOOIE-JNI-net] detect net wroker -> 4          
+
+2021-04-12 16:54:50:013 -04:00 29771-30349 [C] [NOOIE-JNI-net] detect net wroker -> 5          
+
+2021-04-12 16:54:50:120 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] current index 505 total 508             
+
+2021-04-12 16:54:50:120 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] play timestamp [base: 1618185600 -> 57044] 1618242644   
+
+2021-04-12 16:54:50:120 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] info 4adcd2139621b1ef16182608918c6b8a4030068fef5e3ceb3b3cbaeee82d586b7630c20965 size: 74
+
+2021-04-12 16:54:50:120 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] secret 9e03f0b14adcd2139621b1ef984b2ac0 size: 32        
+
+2021-04-12 16:54:50:120 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] sha256 hex data 11a740ee21d286c1c8a290199db8a03c00b77dbcbde55424099d226cec574423 size: 64               
+
+2021-04-12 16:54:50:121 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] base64 data MTFhNzQwZWUyMWQyODZjMWM4YTI5MDE5OWRiOGEwM2MwMGI3N2RiY2JkZTU1NDI0MDk5ZDIyNmNlYzU3NDQyMw== size: 88           
+
+2021-04-12 16:54:50:121 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req /rest/v2/fileget_presignurl?deviceid=6611992915f9ba93d58b35d1e6bd86ae&userid=8c6b8a4030068fef&starttime=1618242644&filetype=mov&expiration=3&bindtype=1&file_prefix=nooie           
+
+2021-04-12 16:54:50:122 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> start wait        
+
+2021-04-12 16:54:50:122 -04:00 29771-30369 [C] [NOOIE-JNI-net] detect net wroker -> 1          
+
+2021-04-12 16:54:50:122 -04:00 29771-30369 [C] [NOOIE-JNI-net] detect net start
+
+2021-04-12 16:54:50:127 -04:00 29771-30369 [C] [NOOIE-JNI-net] detect network dns start        
+
+2021-04-12 16:54:50:136 -04:00 29771-30369 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv6             
+
+2021-04-12 16:54:50:136 -04:00 29771-30369 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv4             
+
+2021-04-12 16:54:50:136 -04:00 29771-30369 [C] [NOOIE-JNI-net] deteck net type IPV4_IPV6       
+
+2021-04-12 16:54:50:136 -04:00 29771-30369 [C] [NOOIE-JNI-net] detect net type IPV4_IPV6       
+
+2021-04-12 16:54:50:136 -04:00 29771-30369 [C] [NOOIE-JNI-net] detect net wroker -> 2          
+
+2021-04-12 16:54:50:136 -04:00 29771-30369 [C] [NOOIE-JNI-net] detect net wroker -> 3          
+
+2021-04-12 16:54:50:137 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> wait finish       
+
+2021-04-12 16:54:50:137 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req address:power123.nooie.com port:443 
+
+2021-04-12 16:54:50:137 -04:00 29771-30316 [C] [NOOIE-network] -->>create TCP connection       
+
+2021-04-12 16:54:50:137 -04:00 29771-30316 [C] [NOOIE-network] getaddrinfo(power123.nooie.com) error ipv6 -> Success!
+
+2021-04-12 16:54:50:137 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] request result len -2   
+
+2021-04-12 16:54:50:533 -04:00 29771-30352 [C] [NOOIE-JNI-net] detect net wroker -> 4          
+
+2021-04-12 16:54:50:534 -04:00 29771-30352 [C] [NOOIE-JNI-net] detect net wroker -> 5          
+
+2021-04-12 16:54:50:637 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] current index 505 total 508             
+
+2021-04-12 16:54:50:637 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] play timestamp [base: 1618185600 -> 57044] 1618242644   
+
+2021-04-12 16:54:50:637 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] info 4adcd2139621b1ef16182608918c6b8a4030068fef5e3ceb3b3cbaeee82d586b7630c20965 size: 74
+
+2021-04-12 16:54:50:637 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] secret 9e03f0b14adcd2139621b1ef984b2ac0 size: 32        
+
+2021-04-12 16:54:50:638 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] sha256 hex data 11a740ee21d286c1c8a290199db8a03c00b77dbcbde55424099d226cec574423 size: 64               
+
+2021-04-12 16:54:50:638 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] base64 data MTFhNzQwZWUyMWQyODZjMWM4YTI5MDE5OWRiOGEwM2MwMGI3N2RiY2JkZTU1NDI0MDk5ZDIyNmNlYzU3NDQyMw== size: 88           
+
+2021-04-12 16:54:50:638 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req /rest/v2/fileget_presignurl?deviceid=6611992915f9ba93d58b35d1e6bd86ae&userid=8c6b8a4030068fef&starttime=1618242644&filetype=mov&expiration=3&bindtype=1&file_prefix=nooie           
+
+2021-04-12 16:54:50:638 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> start wait        
+
+2021-04-12 16:54:50:639 -04:00 29771-30372 [C] [NOOIE-JNI-net] detect net wroker -> 1          
+
+2021-04-12 16:54:50:639 -04:00 29771-30372 [C] [NOOIE-JNI-net] detect net start
+
+2021-04-12 16:54:50:647 -04:00 29771-30372 [C] [NOOIE-JNI-net] detect network dns start        
+
+2021-04-12 16:54:50:658 -04:00 29771-30372 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv6             
+
+2021-04-12 16:54:50:658 -04:00 29771-30372 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv4             
+
+2021-04-12 16:54:50:658 -04:00 29771-30372 [C] [NOOIE-JNI-net] deteck net type IPV4_IPV6       
+
+2021-04-12 16:54:50:658 -04:00 29771-30372 [C] [NOOIE-JNI-net] detect net type IPV4_IPV6       
+
+2021-04-12 16:54:50:658 -04:00 29771-30372 [C] [NOOIE-JNI-net] detect net wroker -> 2          
+
+2021-04-12 16:54:50:658 -04:00 29771-30372 [C] [NOOIE-JNI-net] detect net wroker -> 3          
+
+2021-04-12 16:54:50:658 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> wait finish       
+
+2021-04-12 16:54:50:658 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req address:power123.nooie.com port:443 
+
+2021-04-12 16:54:50:658 -04:00 29771-30316 [C] [NOOIE-network] -->>create TCP connection       
+
+2021-04-12 16:54:50:658 -04:00 29771-30316 [C] [NOOIE-network] getaddrinfo(power123.nooie.com) error ipv6 -> Success!
+
+2021-04-12 16:54:50:658 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] request result len -2   
+
+2021-04-12 16:54:51:051 -04:00 29771-30357 [C] [NOOIE-JNI-net] detect net wroker -> 4          
+
+2021-04-12 16:54:51:052 -04:00 29771-30357 [C] [NOOIE-JNI-net] detect net wroker -> 5          
+
+2021-04-12 16:54:51:159 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] current index 506 total 508             
+
+2021-04-12 16:54:51:159 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] play timestamp [base: 1618185600 -> 57104] 1618242704   
+
+2021-04-12 16:54:51:159 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] info 4adcd2139621b1ef16182608928c6b8a4030068fef5e3ceb3b3cbaeee82d586b7630c20965 size: 74
+
+2021-04-12 16:54:51:159 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] secret 9e03f0b14adcd2139621b1ef984b2ac0 size: 32        
+
+2021-04-12 16:54:51:159 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] sha256 hex data 4a45f21e2a3f5c2d10284a4e6674e4678d32d0dd326a96ae351412fff5a529c0 size: 64               
+
+2021-04-12 16:54:51:159 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] base64 data NGE0NWYyMWUyYTNmNWMyZDEwMjg0YTRlNjY3NGU0Njc4ZDMyZDBkZDMyNmE5NmFlMzUxNDEyZmZmNWE1MjljMA== size: 88           
+
+2021-04-12 16:54:51:159 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req /rest/v2/fileget_presignurl?deviceid=6611992915f9ba93d58b35d1e6bd86ae&userid=8c6b8a4030068fef&starttime=1618242704&filetype=mov&expiration=3&bindtype=1&file_prefix=nooie           
+
+2021-04-12 16:54:51:160 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> start wait        
+
+2021-04-12 16:54:51:161 -04:00 29771-30375 [C] [NOOIE-JNI-net] detect net wroker -> 1          
+
+2021-04-12 16:54:51:161 -04:00 29771-30375 [C] [NOOIE-JNI-net] detect net start
+
+2021-04-12 16:54:51:166 -04:00 29771-30375 [C] [NOOIE-JNI-net] detect network dns start        
+
+2021-04-12 16:54:51:178 -04:00 29771-30375 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv6             
+
+2021-04-12 16:54:51:178 -04:00 29771-30375 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv4             
+
+2021-04-12 16:54:51:178 -04:00 29771-30375 [C] [NOOIE-JNI-net] deteck net type IPV4_IPV6       
+
+2021-04-12 16:54:51:178 -04:00 29771-30375 [C] [NOOIE-JNI-net] detect net type IPV4_IPV6       
+
+2021-04-12 16:54:51:179 -04:00 29771-30375 [C] [NOOIE-JNI-net] detect net wroker -> 2          
+
+2021-04-12 16:54:51:179 -04:00 29771-30375 [C] [NOOIE-JNI-net] detect net wroker -> 3          
+
+2021-04-12 16:54:51:180 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> wait finish       
+
+2021-04-12 16:54:51:180 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req address:power123.nooie.com port:443 
+
+2021-04-12 16:54:51:180 -04:00 29771-30316 [C] [NOOIE-network] -->>create TCP connection       
+
+2021-04-12 16:54:51:180 -04:00 29771-30316 [C] [NOOIE-network] getaddrinfo(power123.nooie.com) error ipv6 -> Success!
+
+2021-04-12 16:54:51:180 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] request result len -2   
+
+2021-04-12 16:54:51:575 -04:00 29771-30360 [C] [NOOIE-JNI-net] detect net wroker -> 4          
+
+2021-04-12 16:54:51:575 -04:00 29771-30360 [C] [NOOIE-JNI-net] detect net wroker -> 5          
+
+2021-04-12 16:54:51:680 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] current index 506 total 508             
+
+2021-04-12 16:54:51:681 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] play timestamp [base: 1618185600 -> 57104] 1618242704   
+
+2021-04-12 16:54:51:681 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] info 4adcd2139621b1ef16182608928c6b8a4030068fef5e3ceb3b3cbaeee82d586b7630c20965 size: 74
+
+2021-04-12 16:54:51:681 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] secret 9e03f0b14adcd2139621b1ef984b2ac0 size: 32        
+
+2021-04-12 16:54:51:681 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] sha256 hex data 4a45f21e2a3f5c2d10284a4e6674e4678d32d0dd326a96ae351412fff5a529c0 size: 64               
+
+2021-04-12 16:54:51:681 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] base64 data NGE0NWYyMWUyYTNmNWMyZDEwMjg0YTRlNjY3NGU0Njc4ZDMyZDBkZDMyNmE5NmFlMzUxNDEyZmZmNWE1MjljMA== size: 88           
+
+2021-04-12 16:54:51:681 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req /rest/v2/fileget_presignurl?deviceid=6611992915f9ba93d58b35d1e6bd86ae&userid=8c6b8a4030068fef&starttime=1618242704&filetype=mov&expiration=3&bindtype=1&file_prefix=nooie           
+
+2021-04-12 16:54:51:682 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> start wait        
+
+2021-04-12 16:54:51:684 -04:00 29771-30378 [C] [NOOIE-JNI-net] detect net wroker -> 1          
+
+2021-04-12 16:54:51:684 -04:00 29771-30378 [C] [NOOIE-JNI-net] detect net start
+
+2021-04-12 16:54:51:687 -04:00 29771-30378 [C] [NOOIE-JNI-net] detect network dns start        
+
+2021-04-12 16:54:51:705 -04:00 29771-30378 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv6             
+
+2021-04-12 16:54:51:705 -04:00 29771-30378 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv4             
+
+2021-04-12 16:54:51:705 -04:00 29771-30378 [C] [NOOIE-JNI-net] deteck net type IPV4_IPV6       
+
+2021-04-12 16:54:51:705 -04:00 29771-30378 [C] [NOOIE-JNI-net] detect net type IPV4_IPV6       
+
+2021-04-12 16:54:51:705 -04:00 29771-30378 [C] [NOOIE-JNI-net] detect net wroker -> 2          
+
+2021-04-12 16:54:51:705 -04:00 29771-30378 [C] [NOOIE-JNI-net] detect net wroker -> 3          
+
+2021-04-12 16:54:51:705 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> wait finish       
+
+2021-04-12 16:54:51:705 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req address:power123.nooie.com port:443 
+
+2021-04-12 16:54:51:705 -04:00 29771-30316 [C] [NOOIE-network] -->>create TCP connection       
+
+2021-04-12 16:54:51:711 -04:00 29771-30316 [C] [NOOIE-network] getaddrinfo(power123.nooie.com) error ipv6 -> Success!
+
+2021-04-12 16:54:51:711 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] request result len -2   
+
+2021-04-12 16:54:52:098 -04:00 29771-30363 [C] [NOOIE-JNI-net] detect net wroker -> 4          
+
+2021-04-12 16:54:52:098 -04:00 29771-30363 [C] [NOOIE-JNI-net] detect net wroker -> 5          
+
+2021-04-12 16:54:52:211 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] current index 506 total 508             
+
+2021-04-12 16:54:52:211 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] play timestamp [base: 1618185600 -> 57104] 1618242704   
+
+2021-04-12 16:54:52:211 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] info 4adcd2139621b1ef16182608938c6b8a4030068fef5e3ceb3b3cbaeee82d586b7630c20965 size: 74
+
+2021-04-12 16:54:52:211 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] secret 9e03f0b14adcd2139621b1ef984b2ac0 size: 32        
+
+2021-04-12 16:54:52:211 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] sha256 hex data 2611094e5014e0bf59c1c3b930cbe7e995f96294b11902325a08ba294e22794b size: 64               
+
+2021-04-12 16:54:52:212 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] base64 data MjYxMTA5NGU1MDE0ZTBiZjU5YzFjM2I5MzBjYmU3ZTk5NWY5NjI5NGIxMTkwMjMyNWEwOGJhMjk0ZTIyNzk0Yg== size: 88           
+
+2021-04-12 16:54:52:212 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req /rest/v2/fileget_presignurl?deviceid=6611992915f9ba93d58b35d1e6bd86ae&userid=8c6b8a4030068fef&starttime=1618242704&filetype=mov&expiration=3&bindtype=1&file_prefix=nooie           
+
+2021-04-12 16:54:52:212 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> start wait        
+
+2021-04-12 16:54:52:212 -04:00 29771-30427 [C] [NOOIE-JNI-net] detect net wroker -> 1          
+
+2021-04-12 16:54:52:212 -04:00 29771-30427 [C] [NOOIE-JNI-net] detect net start
+
+2021-04-12 16:54:52:216 -04:00 29771-30427 [C] [NOOIE-JNI-net] detect network dns start        
+
+2021-04-12 16:54:52:219 -04:00 29771-30427 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv6             
+
+2021-04-12 16:54:52:219 -04:00 29771-30427 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv4             
+
+2021-04-12 16:54:52:219 -04:00 29771-30427 [C] [NOOIE-JNI-net] deteck net type IPV4_IPV6       
+
+2021-04-12 16:54:52:219 -04:00 29771-30427 [C] [NOOIE-JNI-net] detect net type IPV4_IPV6       
+
+2021-04-12 16:54:52:219 -04:00 29771-30427 [C] [NOOIE-JNI-net] detect net wroker -> 2          
+
+2021-04-12 16:54:52:220 -04:00 29771-30427 [C] [NOOIE-JNI-net] detect net wroker -> 3          
+
+2021-04-12 16:54:52:220 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> wait finish       
+
+2021-04-12 16:54:52:220 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req address:power123.nooie.com port:443 
+
+2021-04-12 16:54:52:220 -04:00 29771-30316 [C] [NOOIE-network] -->>create TCP connection       
+
+2021-04-12 16:54:52:221 -04:00 29771-30316 [C] [NOOIE-network] getaddrinfo(power123.nooie.com) error ipv6 -> Success!
+
+2021-04-12 16:54:52:221 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] request result len -2   
+
+2021-04-12 16:54:52:410 -04:00 29771-30315 [T] [NOOIE-JNI-FPMessage] msg-recycle 	17 + 	3 = 	20
+
+2021-04-12 16:54:52:547 -04:00 29771-29945 [I] [NOOIE-PP] *** process item: ApemanConnInitN    
+
+2021-04-12 16:54:52:547 -04:00 29771-29945 [I] [NOOIE-PP] [33m**********Natcheck start************[0m        
+
+2021-04-12 16:54:52:547 -04:00 29771-29945 [I] [NOOIE-PP] init_sail host:3.218.14.127,port:5084,mode:10        
+
+2021-04-12 16:54:52:547 -04:00 29771-29945 [I] [NOOIE-PP] addr.ip:3.218.14.127, addr.port:5084 
+
+2021-04-12 16:54:52:547 -04:00 29771-29945 [I] [NOOIE-PP] addr.ip:3.218.14.127, addr.port:5084 
+
+2021-04-12 16:54:52:547 -04:00 29771-29945 [I] [NOOIE-PP] === ip:Unknown AF,port:0             
+
+2021-04-12 16:54:52:548 -04:00 29771-29945 [I] [NOOIE-PP] udpSocket : 123      
+
+2021-04-12 16:54:52:548 -04:00 29771-29945 [I] [NOOIE-PP] ret:0
+
+2021-04-12 16:54:52:548 -04:00 29771-29945 [I] [NOOIE-PP] apemangetlocaladdr6:144 ==> Address family not supported by protocol 
+
+2021-04-12 16:54:52:548 -04:00 29771-29945 [I] [NOOIE-PP] ApemanConnInit Can not get local address and port, may be the network is not available               
+
+2021-04-12 16:54:52:620 -04:00 29771-30366 [C] [NOOIE-JNI-net] detect net wroker -> 4          
+
+2021-04-12 16:54:52:620 -04:00 29771-30366 [C] [NOOIE-JNI-net] detect net wroker -> 5          
+
+2021-04-12 16:54:52:721 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] current index 506 total 508             
+
+2021-04-12 16:54:52:721 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] play timestamp [base: 1618185600 -> 57104] 1618242704   
+
+2021-04-12 16:54:52:721 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] info 4adcd2139621b1ef16182608938c6b8a4030068fef5e3ceb3b3cbaeee82d586b7630c20965 size: 74
+
+2021-04-12 16:54:52:721 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] secret 9e03f0b14adcd2139621b1ef984b2ac0 size: 32        
+
+2021-04-12 16:54:52:721 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] sha256 hex data 2611094e5014e0bf59c1c3b930cbe7e995f96294b11902325a08ba294e22794b size: 64               
+
+2021-04-12 16:54:52:721 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] base64 data MjYxMTA5NGU1MDE0ZTBiZjU5YzFjM2I5MzBjYmU3ZTk5NWY5NjI5NGIxMTkwMjMyNWEwOGJhMjk0ZTIyNzk0Yg== size: 88           
+
+2021-04-12 16:54:52:721 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req /rest/v2/fileget_presignurl?deviceid=6611992915f9ba93d58b35d1e6bd86ae&userid=8c6b8a4030068fef&starttime=1618242704&filetype=mov&expiration=3&bindtype=1&file_prefix=nooie           
+
+2021-04-12 16:54:52:723 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> start wait        
+
+2021-04-12 16:54:52:723 -04:00 29771-30435 [C] [NOOIE-JNI-net] detect net wroker -> 1          
+
+2021-04-12 16:54:52:723 -04:00 29771-30435 [C] [NOOIE-JNI-net] detect net start
+
+2021-04-12 16:54:52:726 -04:00 29771-30435 [C] [NOOIE-JNI-net] detect network dns start        
+
+2021-04-12 16:54:52:734 -04:00 29771-30435 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv6             
+
+2021-04-12 16:54:52:734 -04:00 29771-30435 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv4             
+
+2021-04-12 16:54:52:734 -04:00 29771-30435 [C] [NOOIE-JNI-net] deteck net type IPV4_IPV6       
+
+2021-04-12 16:54:52:734 -04:00 29771-30435 [C] [NOOIE-JNI-net] detect net type IPV4_IPV6       
+
+2021-04-12 16:54:52:734 -04:00 29771-30435 [C] [NOOIE-JNI-net] detect net wroker -> 2          
+
+2021-04-12 16:54:52:734 -04:00 29771-30435 [C] [NOOIE-JNI-net] detect net wroker -> 3          
+
+2021-04-12 16:54:52:734 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> wait finish       
+
+2021-04-12 16:54:52:734 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req address:power123.nooie.com port:443 
+
+2021-04-12 16:54:52:734 -04:00 29771-30316 [C] [NOOIE-network] -->>create TCP connection       
+
+2021-04-12 16:54:52:734 -04:00 29771-30316 [C] [NOOIE-network] getaddrinfo(power123.nooie.com) error ipv6 -> Success!
+
+2021-04-12 16:54:52:734 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] request result len -2   
+
+2021-04-12 16:54:53:137 -04:00 29771-30369 [C] [NOOIE-JNI-net] detect net wroker -> 4          
+
+2021-04-12 16:54:53:137 -04:00 29771-30369 [C] [NOOIE-JNI-net] detect net wroker -> 5          
+
+2021-04-12 16:54:53:235 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] current index 506 total 508             
+
+2021-04-12 16:54:53:235 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] play timestamp [base: 1618185600 -> 57104] 1618242704   
+
+2021-04-12 16:54:53:235 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] info 4adcd2139621b1ef16182608948c6b8a4030068fef5e3ceb3b3cbaeee82d586b7630c20965 size: 74
+
+2021-04-12 16:54:53:235 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] secret 9e03f0b14adcd2139621b1ef984b2ac0 size: 32        
+
+2021-04-12 16:54:53:235 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] sha256 hex data 3f26beff2eb23ef3e8a93ac976685b4073f0f62cf0a5170273bb429b6aa76192 size: 64               
+
+2021-04-12 16:54:53:235 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] base64 data M2YyNmJlZmYyZWIyM2VmM2U4YTkzYWM5NzY2ODViNDA3M2YwZjYyY2YwYTUxNzAyNzNiYjQyOWI2YWE3NjE5Mg== size: 88           
+
+2021-04-12 16:54:53:235 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req /rest/v2/fileget_presignurl?deviceid=6611992915f9ba93d58b35d1e6bd86ae&userid=8c6b8a4030068fef&starttime=1618242704&filetype=mov&expiration=3&bindtype=1&file_prefix=nooie           
+
+2021-04-12 16:54:53:235 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> start wait        
+
+2021-04-12 16:54:53:235 -04:00 29771-30494 [C] [NOOIE-JNI-net] detect net wroker -> 1          
+
+2021-04-12 16:54:53:235 -04:00 29771-30494 [C] [NOOIE-JNI-net] detect net start
+
+2021-04-12 16:54:53:238 -04:00 29771-30494 [C] [NOOIE-JNI-net] detect network dns start        
+
+2021-04-12 16:54:53:243 -04:00 29771-30494 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv6             
+
+2021-04-12 16:54:53:243 -04:00 29771-30494 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv4             
+
+2021-04-12 16:54:53:243 -04:00 29771-30494 [C] [NOOIE-JNI-net] deteck net type IPV4_IPV6       
+
+2021-04-12 16:54:53:243 -04:00 29771-30494 [C] [NOOIE-JNI-net] detect net type IPV4_IPV6       
+
+2021-04-12 16:54:53:243 -04:00 29771-30494 [C] [NOOIE-JNI-net] detect net wroker -> 2          
+
+2021-04-12 16:54:53:243 -04:00 29771-30494 [C] [NOOIE-JNI-net] detect net wroker -> 3          
+
+2021-04-12 16:54:53:243 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> wait finish       
+
+2021-04-12 16:54:53:243 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req address:power123.nooie.com port:443 
+
+2021-04-12 16:54:53:243 -04:00 29771-30316 [C] [NOOIE-network] -->>create TCP connection       
+
+2021-04-12 16:54:53:244 -04:00 29771-30316 [C] [NOOIE-network] getaddrinfo(power123.nooie.com) error ipv6 -> Success!
+
+2021-04-12 16:54:53:244 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] request result len -2   
+
+2021-04-12 16:54:53:659 -04:00 29771-30372 [C] [NOOIE-JNI-net] detect net wroker -> 4          
+
+2021-04-12 16:54:53:659 -04:00 29771-30372 [C] [NOOIE-JNI-net] detect net wroker -> 5          
+
+2021-04-12 16:54:53:744 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] current index 507 total 508             
+
+2021-04-12 16:54:53:744 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] play timestamp [base: 1618185600 -> 57164] 1618242764   
+
+2021-04-12 16:54:53:744 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] info 4adcd2139621b1ef16182608948c6b8a4030068fef5e3ceb3b3cbaeee82d586b7630c20965 size: 74
+
+2021-04-12 16:54:53:744 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] secret 9e03f0b14adcd2139621b1ef984b2ac0 size: 32        
+
+2021-04-12 16:54:53:745 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] sha256 hex data 3f26beff2eb23ef3e8a93ac976685b4073f0f62cf0a5170273bb429b6aa76192 size: 64               
+
+2021-04-12 16:54:53:745 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] base64 data M2YyNmJlZmYyZWIyM2VmM2U4YTkzYWM5NzY2ODViNDA3M2YwZjYyY2YwYTUxNzAyNzNiYjQyOWI2YWE3NjE5Mg== size: 88           
+
+2021-04-12 16:54:53:745 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req /rest/v2/fileget_presignurl?deviceid=6611992915f9ba93d58b35d1e6bd86ae&userid=8c6b8a4030068fef&starttime=1618242764&filetype=mov&expiration=3&bindtype=1&file_prefix=nooie           
+
+2021-04-12 16:54:53:745 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> start wait        
+
+2021-04-12 16:54:53:745 -04:00 29771-30502 [C] [NOOIE-JNI-net] detect net wroker -> 1          
+
+2021-04-12 16:54:53:745 -04:00 29771-30502 [C] [NOOIE-JNI-net] detect net start
+
+2021-04-12 16:54:53:749 -04:00 29771-30502 [C] [NOOIE-JNI-net] detect network dns start        
+
+2021-04-12 16:54:53:754 -04:00 29771-30502 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv6             
+
+2021-04-12 16:54:53:754 -04:00 29771-30502 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv4             
+
+2021-04-12 16:54:53:754 -04:00 29771-30502 [C] [NOOIE-JNI-net] deteck net type IPV4_IPV6       
+
+2021-04-12 16:54:53:754 -04:00 29771-30502 [C] [NOOIE-JNI-net] detect net type IPV4_IPV6       
+
+2021-04-12 16:54:53:754 -04:00 29771-30502 [C] [NOOIE-JNI-net] detect net wroker -> 2          
+
+2021-04-12 16:54:53:754 -04:00 29771-30502 [C] [NOOIE-JNI-net] detect net wroker -> 3          
+
+2021-04-12 16:54:53:755 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> wait finish       
+
+2021-04-12 16:54:53:755 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req address:power123.nooie.com port:443 
+
+2021-04-12 16:54:53:755 -04:00 29771-30316 [C] [NOOIE-network] -->>create TCP connection       
+
+2021-04-12 16:54:53:755 -04:00 29771-30316 [C] [NOOIE-network] getaddrinfo(power123.nooie.com) error ipv6 -> Success!
+
+2021-04-12 16:54:53:755 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] request result len -2   
+
+2021-04-12 16:54:54:179 -04:00 29771-30375 [C] [NOOIE-JNI-net] detect net wroker -> 4          
+
+2021-04-12 16:54:54:179 -04:00 29771-30375 [C] [NOOIE-JNI-net] detect net wroker -> 5          
+
+2021-04-12 16:54:54:255 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] current index 507 total 508             
+
+2021-04-12 16:54:54:255 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] play timestamp [base: 1618185600 -> 57164] 1618242764   
+
+2021-04-12 16:54:54:255 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] info 4adcd2139621b1ef16182608958c6b8a4030068fef5e3ceb3b3cbaeee82d586b7630c20965 size: 74
+
+2021-04-12 16:54:54:255 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] secret 9e03f0b14adcd2139621b1ef984b2ac0 size: 32        
+
+2021-04-12 16:54:54:255 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] sha256 hex data 54ca38bf1873f2cd586248038c2cd5c29716fed815c0f13bf4355a99bdffdab4 size: 64               
+
+2021-04-12 16:54:54:255 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] base64 data NTRjYTM4YmYxODczZjJjZDU4NjI0ODAzOGMyY2Q1YzI5NzE2ZmVkODE1YzBmMTNiZjQzNTVhOTliZGZmZGFiNA== size: 88           
+
+2021-04-12 16:54:54:255 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req /rest/v2/fileget_presignurl?deviceid=6611992915f9ba93d58b35d1e6bd86ae&userid=8c6b8a4030068fef&starttime=1618242764&filetype=mov&expiration=3&bindtype=1&file_prefix=nooie           
+
+2021-04-12 16:54:54:257 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> start wait        
+
+2021-04-12 16:54:54:257 -04:00 29771-30505 [C] [NOOIE-JNI-net] detect net wroker -> 1          
+
+2021-04-12 16:54:54:257 -04:00 29771-30505 [C] [NOOIE-JNI-net] detect net start
+
+2021-04-12 16:54:54:261 -04:00 29771-30505 [C] [NOOIE-JNI-net] detect network dns start        
+
+2021-04-12 16:54:54:268 -04:00 29771-30505 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv6             
+
+2021-04-12 16:54:54:268 -04:00 29771-30505 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv4             
+
+2021-04-12 16:54:54:268 -04:00 29771-30505 [C] [NOOIE-JNI-net] deteck net type IPV4_IPV6       
+
+2021-04-12 16:54:54:268 -04:00 29771-30505 [C] [NOOIE-JNI-net] detect net type IPV4_IPV6       
+
+2021-04-12 16:54:54:268 -04:00 29771-30505 [C] [NOOIE-JNI-net] detect net wroker -> 2          
+
+2021-04-12 16:54:54:268 -04:00 29771-30505 [C] [NOOIE-JNI-net] detect net wroker -> 3          
+
+2021-04-12 16:54:54:269 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> wait finish       
+
+2021-04-12 16:54:54:269 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req address:power123.nooie.com port:443 
+
+2021-04-12 16:54:54:269 -04:00 29771-30316 [C] [NOOIE-network] -->>create TCP connection       
+
+2021-04-12 16:54:54:269 -04:00 29771-30316 [C] [NOOIE-network] getaddrinfo(power123.nooie.com) error ipv6 -> Success!
+
+2021-04-12 16:54:54:269 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] request result len -2   
+
+2021-04-12 16:54:54:706 -04:00 29771-30378 [C] [NOOIE-JNI-net] detect net wroker -> 4          
+
+2021-04-12 16:54:54:706 -04:00 29771-30378 [C] [NOOIE-JNI-net] detect net wroker -> 5          
+
+2021-04-12 16:54:54:769 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] current index 507 total 508             
+
+2021-04-12 16:54:54:769 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] play timestamp [base: 1618185600 -> 57164] 1618242764   
+
+2021-04-12 16:54:54:769 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] info 4adcd2139621b1ef16182608958c6b8a4030068fef5e3ceb3b3cbaeee82d586b7630c20965 size: 74
+
+2021-04-12 16:54:54:769 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] secret 9e03f0b14adcd2139621b1ef984b2ac0 size: 32        
+
+2021-04-12 16:54:54:769 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] sha256 hex data 54ca38bf1873f2cd586248038c2cd5c29716fed815c0f13bf4355a99bdffdab4 size: 64               
+
+2021-04-12 16:54:54:769 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] base64 data NTRjYTM4YmYxODczZjJjZDU4NjI0ODAzOGMyY2Q1YzI5NzE2ZmVkODE1YzBmMTNiZjQzNTVhOTliZGZmZGFiNA== size: 88           
+
+2021-04-12 16:54:54:769 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req /rest/v2/fileget_presignurl?deviceid=6611992915f9ba93d58b35d1e6bd86ae&userid=8c6b8a4030068fef&starttime=1618242764&filetype=mov&expiration=3&bindtype=1&file_prefix=nooie           
+
+2021-04-12 16:54:54:770 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> start wait        
+
+2021-04-12 16:54:54:770 -04:00 29771-30508 [C] [NOOIE-JNI-net] detect net wroker -> 1          
+
+2021-04-12 16:54:54:770 -04:00 29771-30508 [C] [NOOIE-JNI-net] detect net start
+
+2021-04-12 16:54:54:774 -04:00 29771-30508 [C] [NOOIE-JNI-net] detect network dns start        
+
+2021-04-12 16:54:54:780 -04:00 29771-30508 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv6             
+
+2021-04-12 16:54:54:780 -04:00 29771-30508 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv4             
+
+2021-04-12 16:54:54:780 -04:00 29771-30508 [C] [NOOIE-JNI-net] deteck net type IPV4_IPV6       
+
+2021-04-12 16:54:54:780 -04:00 29771-30508 [C] [NOOIE-JNI-net] detect net type IPV4_IPV6       
+
+2021-04-12 16:54:54:780 -04:00 29771-30508 [C] [NOOIE-JNI-net] detect net wroker -> 2          
+
+2021-04-12 16:54:54:780 -04:00 29771-30508 [C] [NOOIE-JNI-net] detect net wroker -> 3          
+
+2021-04-12 16:54:54:780 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> wait finish       
+
+2021-04-12 16:54:54:780 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req address:power123.nooie.com port:443 
+
+2021-04-12 16:54:54:780 -04:00 29771-30316 [C] [NOOIE-network] -->>create TCP connection       
+
+2021-04-12 16:54:54:780 -04:00 29771-30316 [C] [NOOIE-network] getaddrinfo(power123.nooie.com) error ipv6 -> Success!
+
+2021-04-12 16:54:54:780 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] request result len -2   
+
+2021-04-12 16:54:55:220 -04:00 29771-30427 [C] [NOOIE-JNI-net] detect net wroker -> 4          
+
+2021-04-12 16:54:55:220 -04:00 29771-30427 [C] [NOOIE-JNI-net] detect net wroker -> 5          
+
+2021-04-12 16:54:55:281 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] current index 507 total 508             
+
+2021-04-12 16:54:55:281 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] play timestamp [base: 1618185600 -> 57164] 1618242764   
+
+2021-04-12 16:54:55:281 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] info 4adcd2139621b1ef16182608968c6b8a4030068fef5e3ceb3b3cbaeee82d586b7630c20965 size: 74
+
+2021-04-12 16:54:55:281 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] secret 9e03f0b14adcd2139621b1ef984b2ac0 size: 32        
+
+2021-04-12 16:54:55:281 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] sha256 hex data 4dee36daff7c94d048cb58df177a5b2f8c03b7ccb37de0381f35cd7c187552aa size: 64               
+
+2021-04-12 16:54:55:281 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] base64 data NGRlZTM2ZGFmZjdjOTRkMDQ4Y2I1OGRmMTc3YTViMmY4YzAzYjdjY2IzN2RlMDM4MWYzNWNkN2MxODc1NTJhYQ== size: 88           
+
+2021-04-12 16:54:55:281 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req /rest/v2/fileget_presignurl?deviceid=6611992915f9ba93d58b35d1e6bd86ae&userid=8c6b8a4030068fef&starttime=1618242764&filetype=mov&expiration=3&bindtype=1&file_prefix=nooie           
+
+2021-04-12 16:54:55:282 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> start wait        
+
+2021-04-12 16:54:55:283 -04:00 29771-30511 [C] [NOOIE-JNI-net] detect net wroker -> 1          
+
+2021-04-12 16:54:55:284 -04:00 29771-30511 [C] [NOOIE-JNI-net] detect net start
+
+2021-04-12 16:54:55:291 -04:00 29771-30511 [C] [NOOIE-JNI-net] detect network dns start        
+
+2021-04-12 16:54:55:300 -04:00 29771-30511 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv6             
+
+2021-04-12 16:54:55:300 -04:00 29771-30511 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv4             
+
+2021-04-12 16:54:55:300 -04:00 29771-30511 [C] [NOOIE-JNI-net] deteck net type IPV4_IPV6       
+
+2021-04-12 16:54:55:300 -04:00 29771-30511 [C] [NOOIE-JNI-net] detect net type IPV4_IPV6       
+
+2021-04-12 16:54:55:300 -04:00 29771-30511 [C] [NOOIE-JNI-net] detect net wroker -> 2          
+
+2021-04-12 16:54:55:300 -04:00 29771-30511 [C] [NOOIE-JNI-net] detect net wroker -> 3          
+
+2021-04-12 16:54:55:301 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> wait finish       
+
+2021-04-12 16:54:55:301 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req address:power123.nooie.com port:443 
+
+2021-04-12 16:54:55:301 -04:00 29771-30316 [C] [NOOIE-network] -->>create TCP connection       
+
+2021-04-12 16:54:55:301 -04:00 29771-30316 [C] [NOOIE-network] getaddrinfo(power123.nooie.com) error ipv6 -> Success!
+
+2021-04-12 16:54:55:301 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] request result len -2   
+
+2021-04-12 16:54:55:735 -04:00 29771-30435 [C] [NOOIE-JNI-net] detect net wroker -> 4          
+
+2021-04-12 16:54:55:735 -04:00 29771-30435 [C] [NOOIE-JNI-net] detect net wroker -> 5          
+
+2021-04-12 16:54:55:802 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] current index 507 total 508             
+
+2021-04-12 16:54:55:802 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] play timestamp [base: 1618185600 -> 57164] 1618242764   
+
+2021-04-12 16:54:55:802 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] info 4adcd2139621b1ef16182608968c6b8a4030068fef5e3ceb3b3cbaeee82d586b7630c20965 size: 74
+
+2021-04-12 16:54:55:802 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] secret 9e03f0b14adcd2139621b1ef984b2ac0 size: 32        
+
+2021-04-12 16:54:55:802 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] sha256 hex data 4dee36daff7c94d048cb58df177a5b2f8c03b7ccb37de0381f35cd7c187552aa size: 64               
+
+2021-04-12 16:54:55:802 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] base64 data NGRlZTM2ZGFmZjdjOTRkMDQ4Y2I1OGRmMTc3YTViMmY4YzAzYjdjY2IzN2RlMDM4MWYzNWNkN2MxODc1NTJhYQ== size: 88           
+
+2021-04-12 16:54:55:802 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req /rest/v2/fileget_presignurl?deviceid=6611992915f9ba93d58b35d1e6bd86ae&userid=8c6b8a4030068fef&starttime=1618242764&filetype=mov&expiration=3&bindtype=1&file_prefix=nooie           
+
+2021-04-12 16:54:55:803 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> start wait        
+
+2021-04-12 16:54:55:804 -04:00 29771-30514 [C] [NOOIE-JNI-net] detect net wroker -> 1          
+
+2021-04-12 16:54:55:804 -04:00 29771-30514 [C] [NOOIE-JNI-net] detect net start
+
+2021-04-12 16:54:55:811 -04:00 29771-30514 [C] [NOOIE-JNI-net] detect network dns start        
+
+2021-04-12 16:54:55:823 -04:00 29771-30514 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv6             
+
+2021-04-12 16:54:55:823 -04:00 29771-30514 [C] [NOOIE-JNI-net] hostname:power123.nooie.com is ipv4             
+
+2021-04-12 16:54:55:823 -04:00 29771-30514 [C] [NOOIE-JNI-net] deteck net type IPV4_IPV6       
+
+2021-04-12 16:54:55:823 -04:00 29771-30514 [C] [NOOIE-JNI-net] detect net type IPV4_IPV6       
+
+2021-04-12 16:54:55:823 -04:00 29771-30514 [C] [NOOIE-JNI-net] detect net wroker -> 2          
+
+2021-04-12 16:54:55:823 -04:00 29771-30514 [C] [NOOIE-JNI-net] detect net wroker -> 3          
+
+2021-04-12 16:54:55:823 -04:00 29771-30316 [C] [NOOIE-JNI-net] detect net -> wait finish       
+
+2021-04-12 16:54:55:823 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] req address:power123.nooie.com port:443 
+
+2021-04-12 16:54:55:823 -04:00 29771-30316 [C] [NOOIE-network] -->>create TCP connection       
+
+2021-04-12 16:54:55:824 -04:00 29771-30316 [C] [NOOIE-network] getaddrinfo(power123.nooie.com) error ipv6 -> Success!
+
+2021-04-12 16:54:55:824 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] request result len -2   
+
+2021-04-12 16:54:56:244 -04:00 29771-30494 [C] [NOOIE-JNI-net] detect net wroker -> 4          
+
+2021-04-12 16:54:56:244 -04:00 29771-30494 [C] [NOOIE-JNI-net] detect net wroker -> 5          
+
+2021-04-12 16:54:56:324 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] current index 508 total 508             
+
+2021-04-12 16:54:56:324 -04:00 29771-30316 [T] [NOOIE-JNI-demux-cloud] finish of read files    
+
+2021-04-12 16:54:56:325 -04:00 29771-30314 [C] [NOOIE-JNI-input] input eos     
+
+2021-04-12 16:54:56:325 -04:00 29771-30027 [I] [NOOIE-PP] @@@@@@@@@@@ asdsendtcpmsg start tcp send heart beat,time:3118538377  
+
+2021-04-12 16:54:56:325 -04:00 29771-30027 [I] [NOOIE-PP] @@@@@@@@@@@ asdsendtcpmsg over tcp send heart beat,time:3118538805   
+
+2021-04-12 16:54:56:325 -04:00 29771-30027 [I] [NOOIE-PP] --------3-----:104   
+
+2021-04-12 16:54:56:327 -04:00 29771-29771 [T] [NOOIE-JNI-nooie] fplayer_native_is_recording   
+
+2021-04-12 16:54:56:327 -04:00 29771-29771 [D] [NooieDoorbellPlaybackActivity] -->> NooieDoorbellPlaybackActivity NOOIE- resetDefault1         
+
+2021-04-12 16:54:56:333 -04:00 29771-29771 [C] [NOOIE-JNI-audio-output] set rec state OFF SUCC 
+
+2021-04-12 16:54:56:333 -04:00 29771-29771 [C] [NOOIE-JNI-player] stop video recorder failed, recorder is NULL 
+
+2021-04-12 16:54:56:333 -04:00 29771-29771 [C] [NOOIE-JNI-nooie] stop record failed            
+
+2021-04-12 16:54:56:333 -04:00 29771-29771 [T] [NOOIE-JNI-nooie] fplayer_native_stop_record    
+
+2021-04-12 16:54:56:334 -04:00 29771-29771 [C] [NOOIE-JNI-player] ---->>>>stop 0               
+
+2021-04-12 16:54:56:334 -04:00 29771-29771 [C] [NOOIE-JNI-player] ---->>>>stop 1               
+
+2021-04-12 16:54:56:334 -04:00 29771-29771 [C] [NOOIE-JNI-player] ---->>>>stop 2               
+
+2021-04-12 16:54:56:334 -04:00 29771-29771 [C] [NOOIE-JNI-player] ---->>>>stop 3               
+
+2021-04-12 16:54:56:334 -04:00 29771-29771 [C] [NOOIE-JNI-player] ---->>>>stop 4               
+
+2021-04-12 16:54:56:334 -04:00 29771-29771 [C] [NOOIE-JNI-player] ---->>>>stop 5               
+
+2021-04-12 16:54:56:334 -04:00 29771-29771 [C] [NOOIE-JNI-player] ---->>>>stop 6               
+
+2021-04-12 16:54:56:334 -04:00 29771-30326 [C] [NOOIE-JNI-audio-output] stop audio             
+
+2021-04-12 16:54:56:334 -04:00 29771-30326 [C] [NOOIE-JNI-audio-render] waveout_stop finish    
+
+2021-04-12 16:54:56:334 -04:00 29771-29771 [C] [NOOIE-JNI-player] ---->>>>stop 7               
+
+2021-04-12 16:54:56:334 -04:00 29771-29771 [C] [NOOIE-JNI-player] ---->>>>stop 8               
+
+2021-04-12 16:54:56:334 -04:00 29771-29771 [C] [NOOIE-JNI-player] ---->>>>stop 9               
+
+2021-04-12 16:54:56:334 -04:00 29771-30310 [T] [NOOIE-JNI-video-decoder-mediacodec] stop of video decode       
+
+2021-04-12 16:54:56:334 -04:00 29771-29771 [C] [NOOIE-JNI-player] stop video recorder failed, recorder is NULL 
+
+2021-04-12 16:54:56:334 -04:00 29771-29771 [C] [NOOIE-JNI-player] ---->>>>stop 10              
+
+2021-04-12 16:54:56:334 -04:00 29771-29771 [C] [NOOIE-JNI-demux-cloud] stop nooie cloud playback 1             
+
+2021-04-12 16:54:56:334 -04:00 29771-29771 [C] [NOOIE-JNI-demux-cloud] stop nooie cloud playback 2             
+
+2021-04-12 16:54:56:334 -04:00 29771-29771 [C] [NOOIE-JNI-player] =========>>>stop new player 0xBAB42300 ==================    
+
+2021-04-12 16:54:56:335 -04:00 29771-30312 [T] [NOOIE-JNI-audio-decoder-ffmpeg] stop of audio decode           
+
+2021-04-12 16:54:56:335 -04:00 29771-30317 [T] [NOOIE-JNI-input] stop input aud worker         
+
+2021-04-12 16:54:56:335 -04:00 29771-30313 [C] [NOOIE-JNI-audio-output] stop of audio output 000               
+
+2021-04-12 16:54:56:335 -04:00 29771-30311 [T] [NOOIE-JNI-video-output] stop of video output 1 
+
+2021-04-12 16:54:56:335 -04:00 29771-30326 [C] [NOOIE-JNI-audio-output] stop cmd worker        
+
+2021-04-12 16:54:56:335 -04:00 29771-30314 [T] [NOOIE-JNI-input] start of input[4] 0xE6191100  
+
+2021-04-12 16:54:56:335 -04:00 29771-30314 [T] [NOOIE-JNI-input] start of input[5] 0xE6191100  
+
+2021-04-12 16:54:56:335 -04:00 29771-30314 [C] [NOOIE-JNI-demux-cloud] stop nooie cloud playback 1             
+
+2021-04-12 16:54:56:335 -04:00 29771-30314 [T] [NOOIE-JNI-input] stop of input 0xE6191100      
+
+2021-04-12 16:54:56:335 -04:00 29771-30313 [T] [NOOIE-JNI-audio-output] stop of audio output 111               
+
+2021-04-12 16:54:56:335 -04:00 29771-30313 [C] [NOOIE-JNI-audio-render] waveout_stop finish    
+
+2021-04-12 16:54:56:335 -04:00 29771-30313 [T] [NOOIE-JNI-audio-output] stop of audio output 222               
+
+2021-04-12 16:54:56:335 -04:00 29771-30325 [T] [NOOIE-JNI-audio-render] stop of wave out       
+
+2021-04-12 16:54:56:337 -04:00 29771-30308 [T] [NOOIE-JNI-player] end of player message looper 0xBAB42300      
+
+2021-04-12 16:54:56:338 -04:00 29771-29771 [C] [NOOIE-JNI-player] ---->>>>prepare destroy 1    
+
+2021-04-12 16:54:56:338 -04:00 29771-29771 [C] [NOOIE-JNI-player] ---->>>>prepare destroy 2    
+
+2021-04-12 16:54:56:338 -04:00 29771-30518 [C] [NOOIE-JNI-player] ---->>>>destroy 1            
+
+2021-04-12 16:54:56:338 -04:00 29771-30518 [C] [NOOIE-JNI-input] fp_input_destroy 2            
+
+2021-04-12 16:54:56:338 -04:00 29771-30518 [C] [NOOIE-JNI-input] fp_input_destroy 3            
+
+2021-04-12 16:54:56:338 -04:00 29771-30518 [C] [NOOIE-JNI-demux-cloud] destroy nooie cloud playback 1          
+
+2021-04-12 16:54:56:338 -04:00 29771-30518 [C] [NOOIE-JNI-demux-cloud] destroy nooie cloud playback 2          
+
+2021-04-12 16:54:56:338 -04:00 29771-30518 [C] [NOOIE-JNI-input] fp_input_destroy 4            
+
+2021-04-12 16:54:56:338 -04:00 29771-30518 [C] [NOOIE-JNI-player] ---->>>>destroy 2            
+
+2021-04-12 16:54:56:338 -04:00 29771-30518 [C] [NOOIE-JNI-video-decoder] decoder destroy 1     
+
+2021-04-12 16:54:56:338 -04:00 29771-30518 [C] [NOOIE-JNI-video-decoder-mediacodec] deinit >>  
+
+2021-04-12 16:54:56:338 -04:00 29771-30518 [C] [NOOIE-JNI-video-decoder-mediacodec] deinit >>  
+
+2021-04-12 16:54:56:338 -04:00 29771-30518 [C] [NOOIE-JNI-video-decoder-mediacodec] deinit <<  
+
+2021-04-12 16:54:56:338 -04:00 29771-30518 [C] [NOOIE-JNI-video-decoder-mediacodec] deinit mediacodec video decode             
+
+2021-04-12 16:54:56:338 -04:00 29771-30518 [C] [NOOIE-JNI-video-decoder] decoder destroy 2     
+
+2021-04-12 16:54:56:338 -04:00 29771-30518 [C] [NOOIE-JNI-video-decoder] decoder destroy 4     
+
+2021-04-12 16:54:56:338 -04:00 29771-30518 [C] [NOOIE-JNI-video-decoder] decoder destroy 5     
+
+2021-04-12 16:54:56:338 -04:00 29771-30518 [C] [NOOIE-JNI-video-decoder] decoder destroy 6     
+
+2021-04-12 16:54:56:338 -04:00 29771-30518 [C] [NOOIE-JNI-player] ---->>>>destroy 3            
+
+2021-04-12 16:54:56:338 -04:00 29771-30319 [C] [NOOIE-JNI-video-output] stop cmd worker        
+
+2021-04-12 16:54:56:338 -04:00 29771-30311 [T] [NOOIE-JNI-video-output] stop of video output 2 
+
+2021-04-12 16:54:56:339 -04:00 29771-30518 [C] [NOOIE-JNI-video-output] video output destroy join thread 1     
+
+2021-04-12 16:54:56:341 -04:00 29771-29771 [D] [NooieDoorbellPlaybackActivity] -->> NooieDoorbellPlaybackActivity NOOIE- resetDefault2         
+
+2021-04-12 16:54:56:343 -04:00 29771-30311 [T] [NOOIE-JNI-video-output] stop of video output 3 
+
+2021-04-12 16:54:56:344 -04:00 29771-30315 [T] [NOOIE-JNI-player] end of player statistic worker               
+
+2021-04-12 16:54:56:344 -04:00 29771-30518 [C] [NOOIE-JNI-video-output] video output destroy join thread 2     
+
+2021-04-12 16:54:56:344 -04:00 29771-30518 [C] [NOOIE-JNI-player] ---->>>>destroy 4            
+
+2021-04-12 16:54:56:344 -04:00 29771-30518 [C] [NOOIE-JNI-player] ---->>>>destroy 5            
+
+2021-04-12 16:54:56:344 -04:00 29771-30518 [C] [NOOIE-JNI-player] ---->>>>destroy 6            
+
+2021-04-12 16:54:56:344 -04:00 29771-30518 [C] [NOOIE-JNI-player] ---->>>>destroy 7            
+
+2021-04-12 16:54:56:344 -04:00 29771-30518 [C] [NOOIE-JNI-player] ---->>>>destroy 8            
+
+2021-04-12 16:54:56:344 -04:00 29771-30518 [C] [NOOIE-JNI-player] ---->>>>destroy 9            
+
+2021-04-12 16:54:56:344 -04:00 29771-30518 [C] [NOOIE-JNI-player] ---->>>>destroy 10           
+
+2021-04-12 16:54:56:344 -04:00 29771-30518 [C] [NOOIE-JNI-player] ---->>>>destroy 11           
+
+2021-04-12 16:54:56:344 -04:00 29771-30518 [C] [NOOIE-JNI-audio-output] audio output destroy start             
+
+2021-04-12 16:54:56:345 -04:00 29771-30313 [T] [NOOIE-JNI-audio-output] stop of audio output 333               
+
+2021-04-12 16:54:56:346 -04:00 29771-30518 [C] [NOOIE-JNI-audio-output] audio output destroy finish            
+
+2021-04-12 16:54:56:346 -04:00 29771-30518 [C] [NOOIE-JNI-player] ---->>>>destroy 12           
+
+2021-04-12 16:54:56:346 -04:00 29771-30518 [C] [NOOIE-JNI-player] ---->>>>destroy 13           
+
+2021-04-12 16:54:56:346 -04:00 29771-30518 [C] [NOOIE-JNI-player] ---->>>>destroy 14           
+
+2021-04-12 16:54:56:346 -04:00 29771-30518 [C] [NOOIE-JNI-player] ---->>>>destroy 15           
+
+2021-04-12 16:54:56:346 -04:00 29771-30518 [C] [NOOIE-JNI-player] ---->>>>destroy 16           
+
+2021-04-12 16:54:56:346 -04:00 29771-30518 [C] [NOOIE-JNI-player] ---->>>>destroy 17           
+
+2021-04-12 16:54:56:346 -04:00 29771-30518 [C] [NOOIE-JNI-player] ---->>>>destroy 18           
+
+2021-04-12 16:54:56:346 -04:00 29771-30518 [C] [NOOIE-JNI-player] ---->>>>destroy 19           
+
+2021-04-12 16:54:56:346 -04:00 29771-30518 [C] [NOOIE-JNI-player] ---->>>>destroy 20           
+
+2021-04-12 16:54:56:346 -04:00 29771-30518 [C] [NOOIE-JNI-player] ---->>>>destroy 21           
+
+2021-04-12 16:54:56:346 -04:00 29771-30518 [C] [NOOIE-JNI-player] ---->>>>destroy 22           
+
+2021-04-12 16:54:56:346 -04:00 29771-30518 [C] [NOOIE-JNI-player] ---->>>>destroy 23           
+
+2021-04-12 16:54:56:346 -04:00 29771-30518 [C] [NOOIE-JNI-player] ---->>>>destroy 24           
+
+2021-04-12 16:54:56:346 -04:00 29771-30518 [C] [NOOIE-JNI-player] ---->>>>destroy 25           
+
+2021-04-12 16:54:56:346 -04:00 29771-30518 [C] [NOOIE-JNI-player] =========>>>destroy new player 0xBAB42300 ================== 
+
+2021-04-12 16:54:56:346 -04:00 29771-30518 [C] [NOOIE-JNI-player] ---->>>>destroy 26           
+
+2021-04-12 16:54:56:447 -04:00 29771-30027 [I] [NOOIE-PP] -----OP_HEART_BEAT---23------op:14   
+
+2021-04-12 16:54:56:755 -04:00 29771-30502 [C] [NOOIE-JNI-net] detect net wroker -> 4          
+
+2021-04-12 16:54:56:755 -04:00 29771-30502 [C] [NOOIE-JNI-net] detect net wroker -> 5          
+
+2021-04-12 16:54:56:852 -04:00 29771-30031 [I] [NOOIE-PP] @@@@@@@@@@@ asdsendtcpmsg start tcp send heart beat,time:3119065159  
+
+2021-04-12 16:54:56:852 -04:00 29771-30031 [I] [NOOIE-PP] @@@@@@@@@@@ asdsendtcpmsg over tcp send heart beat,time:3119065534   
+
+2021-04-12 16:54:56:852 -04:00 29771-30031 [I] [NOOIE-PP] --------3-----:104   
+
+2021-04-12 16:54:56:952 -04:00 29771-30031 [I] [NOOIE-PP] -----OP_HEART_BEAT---23------op:14   
+
+2021-04-12 16:54:57:269 -04:00 29771-30505 [C] [NOOIE-JNI-net] detect net wroker -> 4          
+
+2021-04-12 16:54:57:269 -04:00 29771-30505 [C] [NOOIE-JNI-net] detect net wroker -> 5          
+
+2021-04-12 16:54:57:781 -04:00 29771-30508 [C] [NOOIE-JNI-net] detect net wroker -> 4          
+
+2021-04-12 16:54:57:781 -04:00 29771-30508 [C] [NOOIE-JNI-net] detect net wroker -> 5          
+
+2021-04-12 16:54:58:301 -04:00 29771-30511 [C] [NOOIE-JNI-net] detect net wroker -> 4          
+
+2021-04-12 16:54:58:301 -04:00 29771-30511 [C] [NOOIE-JNI-net] detect net wroker -> 5          
+
+2021-04-12 16:54:58:325 -04:00 29771-30316 [C] [NOOIE-JNI-demux-cloud] deinit nooie cloud playback 1           
+
+2021-04-12 16:54:58:325 -04:00 29771-30316 [T] [NOOIE-JNI-demux-cloud] end of read files       
+
+2021-04-12 16:54:58:824 -04:00 29771-30514 [C] [NOOIE-JNI-net] d
